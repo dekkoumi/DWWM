@@ -14,12 +14,26 @@ namespace Exercice_1_6
             Console.WriteLine("enter a number");
             number = Int32.Parse(Console.ReadLine());
 
-            for{
-                divider = Int32.Parse(Console.ReadLine());
+            for (divider = 2; divider <= number-1; divider++)
+            {
+                if (number % divider == 0) 
+                {
+                    isPrime = false;
 
-
+                }
 
             }
+            if (isPrime)
+            {
+                Console.WriteLine("This number is prime");
+            }
+            else
+            {
+                Console.WriteLine("This number is not prime");
+            }
+
+
+         }
              
       
 
@@ -28,5 +42,5 @@ namespace Exercice_1_6
 
 
         }
-    }
+    
 }
