@@ -29,7 +29,7 @@ namespace Exercice_1_6
             }
             else
             {
-                Console.WriteLine("This number is not prime");
+            } Console.WriteLine("This number is not prime");
             }
 
 
@@ -43,4 +43,4 @@ namespace Exercice_1_6
 
         }
     
-}
+
