@@ -4,7 +4,7 @@ namespace Exercice_2_7_2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main();
         
           namespace Algo
     {

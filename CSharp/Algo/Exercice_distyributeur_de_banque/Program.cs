@@ -11,8 +11,8 @@ namespace Exercice_distyributeur_de_banque
             int mot_de_passe;
             double montant_du_compte;
             double derniere_transaction;
-            solde[0] =452.25 ;
-            solde[1] = 845.25;
+            int[]solde =452.25 ;
+            int[]solde = 845.25;
 
             Console.WriteLine(" Donnez le nom: ");
             nom = (Console.ReadLine());
