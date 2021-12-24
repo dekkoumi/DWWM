@@ -6,7 +6,7 @@ namespace Evaluation_2
     {
         static void Main(string[] args)
         {
-        
+            
             int num_mois_naissance;
             int janvier = 1;
             int fevrier = 2;

@@ -30,7 +30,7 @@ namespace Evaluation_3
             Console.WriteLine(" ");
 
 
-            if (list_course && sac_vide)
+            
             {
 
             }
