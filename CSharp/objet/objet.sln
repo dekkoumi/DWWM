@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoTrousse", "ExoTrousse\ExoTrousse.csproj", "{9C68714F-E78B-4AC9-8D2B-F13A6E1F9B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSac", "ExoSac\ExoSac.csproj", "{EE8A5386-7EC1-4611-AB7C-090E3B515DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoSac", "ExoSac\ExoSac.csproj", "{EE8A5386-7EC1-4611-AB7C-090E3B515DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoupeeRusse", "PoupeeRusse\PoupeeRusse.csproj", "{4525A4B4-5554-4B63-BF59-CC85617FB4E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EE8A5386-7EC1-4611-AB7C-090E3B515DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE8A5386-7EC1-4611-AB7C-090E3B515DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE8A5386-7EC1-4611-AB7C-090E3B515DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4525A4B4-5554-4B63-BF59-CC85617FB4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525A4B4-5554-4B63-BF59-CC85617FB4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525A4B4-5554-4B63-BF59-CC85617FB4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525A4B4-5554-4B63-BF59-CC85617FB4E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
