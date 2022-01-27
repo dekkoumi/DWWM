@@ -19,9 +19,9 @@ namespace PoupeeRusse
         }
         public void ouvrir()
         {
-            if (this.ouverte && this.dans == null)
+            if (!this.ouverte && this.dans == null)
             {
-                this.ouverte = false
+                this.ouverte = true;
             }
         }
 
