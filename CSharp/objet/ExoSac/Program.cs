@@ -2,7 +2,7 @@
 
 namespace ExoSac
 {
-    class Program
+    class main
     {
         static void Main(string[] args)
         {

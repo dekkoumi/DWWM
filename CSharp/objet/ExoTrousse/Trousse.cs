@@ -36,5 +36,6 @@ namespace ExoTrousse
             get { return _estOuverte; }
             private set { _estOuverte = value;}
         }
+
     }
 }
