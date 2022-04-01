@@ -1,0 +1,91 @@
+html,body{
+
+    height: 100%;
+}
+
+
+.container{
+
+    display: grid;
+    grid-template-rows: 10% 80% 10%;
+    grid-template-columns: 1fr 2fr 2fr;
+    gap: 10px;
+    grid-template-areas:
+    "header header ads"
+    "nav article article"
+    "nav footer footer";
+}
+
+header{
+    background-color: #BBCCFF;
+    grid-area: header;
+    margin-bottom: 0%;
+    
+}
+aside{
+    grid-area: ads;
+    background-color: #BBCCFF;
+}
+
+
+nav{
+    grid-area: nav;
+    background-color: #BBCCFF;
+}
+
+main{
+    grid-area: article;
+    /* grid-template-columns: 1fr; */
+    /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr ; */
+    /* gap: 8px; */ 
+    /* pour gérer le @ medias screen pour que ce soit respensive mobile*/
+
+}
+.articles{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color: #BBCCFF;
+    grid-template-areas:
+    
+    ". ."
+    "article1 article2"
+    "article3 article4"
+    "article5 article6"; 
+    gap: 10px;  
+    padding: 28px; 
+}
+
+.article1{
+    grid-area: article1;
+}
+
+.article2{
+    grid-area: article2;
+}
+.article3{
+    grid-area: article3;
+}
+.article4{
+    grid-area: article4;
+}
+.article5{
+    grid-area: article5;
+}
+.article6{
+    grid-area: article6;
+}
+
+
+section{
+    background-color: white;
+}
+
+footer{
+
+    grid-area: footer ;
+    background-color: #BBCCFF;
+    padding: 0%;
+    
+    }
+

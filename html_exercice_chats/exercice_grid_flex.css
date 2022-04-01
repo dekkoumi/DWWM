@@ -1,0 +1,29 @@
+html,body{
+    height: 100%;
+}
+
+
+
+body{
+
+    background-color: #cccc33;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
+
+
+.section1{
+
+    display: flex;
+    
+}
+
+.section2{
+
+    display: flex;
+    
+}
+
