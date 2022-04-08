@@ -1,0 +1,9 @@
+table{
+    border:medium solid navy;
+    width:50%;
+}
+td,th{
+    border:medium solid navy;
+    width:50%;
+    text-align-last: center;
+}

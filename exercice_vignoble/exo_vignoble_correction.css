@@ -11,7 +11,7 @@
     src: url("./fonts/OLDSSCH_.TTF") format("truetype");
   }
   body {
-    background-image: url("bg_modif.gif");
+    background-image: url("bg_modif.gif");.
     margin: 0%;
     font-family: 'satisfy';
   }

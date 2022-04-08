@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(59, 59, 59);
+  background-image:url('https://images.pexels.com/photos/3137064/pexels-photo-3137064.jpeg?cs=srgb&dl=pexels-adrien-olichon-3137064.jpg&fm=jpg');
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+  max-width: 20%;
+}
+
+
+.header_container{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: auto;
+  /*grid-template-areas: ;*/
+}
+.header_title{
+  grid-area: header_title;
+}
+.header_navigation{
+  grid-area: header_navigation;
+}
+.header_logo{
+grid-area: header_logo;
+}
+.aled {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  row-gap: 20px;
+  column-gap: 35px;
+}
+table {
+  flex: 1;
+  border: 2px solid white;
+}
+article {
+  background-color: black;
+  color: whitesmoke;
+  width: 300px;
+  border-radius: 5%;
+  padding: 0px 10px 25px 50px;
+}
+h1 {
+  color: aliceblue;
+}
+.article1 h2 {
+  color: darkred;
+}
+.article2 h2 {
+  color: darkred;
+}
+.article3 h2 {
+  color: darkred;
+}

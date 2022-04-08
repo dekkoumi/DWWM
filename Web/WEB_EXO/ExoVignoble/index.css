@@ -1,0 +1,403 @@
+:root {
+  --hauteur-menu: 10px;
+}
+@font-face {
+  font-family: channel;
+  src: url("./fonts/channel-webfont.ttf") format("truetype"),
+    url("./fonts/oldsh___-webfont.woff2") format("woff");
+}
+@font-face {
+  font-family: OLDSSCH_;
+  src: url("./fonts/OLDSSCH_.TTF") format("truetype");
+}
+body {
+  background-image: url("bg_modif.gif");
+  margin: 0%;
+}
+nav > ul > li > a {
+  transform: translate(-50%, -50%);
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+  color: white;
+  list-style: none;
+}
+body > header {
+  background-color: black;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 2;
+}
+.header_container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  grid-template-rows: 50px;
+  grid-template-areas: "axel menu";
+  border-bottom: 4px solid white;
+  font-family: channel;
+  font-size: 20px;
+}
+.header_navigation {
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-area: menu;
+  grid-template-areas: "accueil HTML-5 CSS Applications contact";
+  grid-template-rows: auto;
+  padding: 0;
+  margin: 0;
+}
+.header_accueil {
+  grid-area: accueil;
+  text-align: center;
+  place-self: right;
+  color: white;
+  text-decoration: none;
+  height: 100%;
+}
+.html-5 {
+  grid-area: HTML-5;
+  text-align: center;
+  place-self: right;
+  color: white;
+  text-decoration: none;
+}
+.css {
+  grid-area: CSS;
+  text-align: center;
+  place-self: right;
+  color: white;
+  text-decoration: none;
+}
+.applications {
+  grid-area: Applications;
+  text-align: center;
+  place-self: right;
+  color: white;
+  text-decoration: none;
+}
+.contact {
+  grid-area: contact;
+  text-align: center;
+  place-self: right;
+  color: white;
+  text-decoration: none;
+}
+.sous-menu {
+  list-style: none;
+  margin-top: var(--hauteur-menu);
+  width: 100%;
+  overflow: hidden;
+  max-height: 0;
+}
+.menu-deroulant:hover .sous-menu {
+  list-style: none;
+  color: white;
+  overflow: visible;
+}
+.menu-deroulant:hover .sous-menu li {
+  border: 1px solid black;
+  background-color: rgba(15, 15, 15, 0.692);
+}
+.menu-deroulant:hover > a {
+  color: darkred;
+}
+.sous-menu li:hover a {
+  color: darkred;
+}
+.menu-deroulant > li > a {
+  list-style: none;
+  height: 50px;
+  padding-left: 20px;
+  width: 100%;
+  align-items: center;
+  /* display: flex; */
+}
+ul {
+  list-style: none;
+}
+.header_logo {
+  grid-area: axel;
+  place-self: center;
+  height: 0%;
+}
+figcaption {
+  background-color: white;
+  color: darkred;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: xx-large;
+  margin-top: 0%;
+  margin-left: 11%;
+  margin-right: 11%;
+}
+.tata toto {
+  margin: 0%;
+  width: 100%;
+}
+.toto {
+  display: block;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 78%;
+}
+.section {
+  margin-top: 1px;
+  display: flex;
+  /*flex-wrap: wrap;*/
+  flex-direction: column;
+  justify-content: space-around;
+  row-gap: 20px;
+  column-gap: 35px;
+  background-color: rgba(64, 64, 64, 0.4);
+  /* opacity: 0.4; met les images aussi en transparance*/
+}
+.cave {
+  font-family: "Dancing Script", cursive;
+  background-image: url("bg_g.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  width: 300px;
+  padding: 0px 10px 25px 50px;
+  text-align: center;
+}
+.cave div:hover {
+  transform: rotate(-20deg) scale(1.2);
+  transition: 1s;
+}
+.cave a:hover {
+  color: darkred;
+  text-decoration: none;
+}
+.cave a {
+  background-color: grey;
+  font-size: large;
+  color: white;
+  text-decoration: none;
+}
+h2 {
+  color: white;
+  text-align: center;
+  font-family: channel;
+}
+.le_vigneron {
+  font-family: "Dancing Script", cursive;
+  background-image: url("bg_g.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  width: 300px;
+  padding: 0px 10px 25px 50px;
+  text-align: center;
+}
+.le_vigneron div:hover {
+  transform: rotate(-20deg) scale(1.2);
+  transition: 1s;
+}
+.le_vigneron a:hover {
+  color: darkred;
+  text-decoration: none;
+}
+.le_vigneron a {
+  background-color: grey;
+  font-size: large;
+  color: white;
+  text-decoration: none;
+}
+.les_produits {
+  font-family: "Dancing Script", cursive;
+  background-image: url("bg_g.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  width: 300px;
+  padding: 0px 10px 25px 50px;
+  text-align: center;
+}
+.les_produits a:hover {
+  color: darkred;
+  text-decoration: none;
+}
+.les_produits a {
+  background-color: grey;
+  font-size: large;
+  color: white;
+  text-decoration: none;
+}
+.les_produits div:hover {
+  transform: rotate(-20deg) scale(1.2);
+  transition: 1s;
+}
+.flex_ligne {
+  display: flex;
+  /*flex-wrap: wrap;*/
+  flex-direction: row;
+  justify-content: center;
+  row-gap: 20px;
+  border-top: 2px solid white;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.hack-border-sections-footer {
+  background-color: rgba(64, 64, 64, 0.4);
+  padding: 0 25px 10px 25px;
+}
+
+.section2 {
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  display: flex;
+  /*flex-wrap: wrap;*/
+  flex-direction: row;
+  justify-content: center;
+  /* row-gap: 10px; */
+  /* column-gap: 35px; */
+  padding-bottom: 1%;
+}
+.selection {
+  font-family: "Dancing Script", cursive;
+  /* font-family: "Dancing Script", cursive; */
+
+  width: 450px;
+  /* padding: 0px 10px 25px 50px; */
+  /* text-align: center; */
+  background-color: rgba(125, 125, 125, 0.4);
+  margin-top: 1%;
+  display: grid;
+  grid-template-columns: "c1";
+  grid-template-areas: "l1" "l2" "l3" "l4" "l5" "l6";
+  grid-template-rows: repeat(6, auto);
+}
+.selection ul li {
+  /* border-top: 1px solid white; */
+  /* border-bottom: 1px solid white; */
+  margin-left: 5%;
+  margin-right: 3%;
+  margin-top: 1%;
+}
+.cadeau {
+  background-color: rgba(125, 125, 125, 0.6);
+  margin-left: 5%;
+  margin-top: 1%;
+  display: grid;
+  grid-template-columns: repeat(5, 131px);
+  grid-template-rows: repeat(4, auto);
+  grid-template-areas:
+    "titre titre titre titre titre"
+    "img img h3 h3 h3"
+    "img img p p p "
+    ". . . . link";
+}
+.verre {
+  grid-area: img;
+  /* width: 120%; */
+}
+h3 {
+  font-size: large;
+  color: white;
+  text-align: center;
+}
+.cadeau p {
+  grid-area: p;
+  font-size: large;
+}
+.cadeau h3 {
+  grid-area: h3;
+  font-size: small;
+  font-family: channel;
+}
+.cadeau h2 {
+  font-size: large;
+  grid-area: titre;
+  font-family: channel;
+}
+.cadeau a {
+  grid-area: link;
+  margin-top: 30%;
+  font-size: large;
+  color: white;
+  background-color: grey;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.cadeau a:hover {
+  color: darkred;
+  transform: rotate(20deg) scale(1.3);
+  transition: 1s;
+}
+.truc {
+  border: 4px solid white;
+}
+.liste {
+  border-top: 1px solid white;
+  font-size: small;
+  font-family: channel;
+  text-align: center;
+  margin: 0%;
+  padding-top: 5%;
+  padding-bottom: 0%;
+}
+.liste_last {
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  font-size: small;
+  font-family: channel;
+  text-align: center;
+  margin: 0%;
+  padding-top: 5%;
+  padding-bottom: 0%;
+}
+footer {
+  font-family: channel;
+}
+.nav_footer {
+  position: relative;
+  overflow: hidden;
+
+  font-family: channel;
+  /* background-color: rgba(73, 72, 72, 0.4); */
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-areas: "accueil cave vigneron produits contact img";
+  text-align: center;
+}
+.nav_footer a {
+  font-family: channel;
+  color: white;
+  text-decoration: none;
+  margin-top: 20%;
+  font-size: 15px;
+  position: relative;
+  z-index: 2;
+}
+.nav_footer figure {
+  position: relative;
+  z-index: 2;
+}
+.nav_footer a:hover {
+  color: darkred;
+  transform: scale(1.2);
+}
+.nav_footer:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.3;
+  background-image: url("footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+.main {
+  margin: 0 10%;
+}
