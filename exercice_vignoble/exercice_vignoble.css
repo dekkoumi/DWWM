@@ -1,3 +1,164 @@
 body{
     background-image: url(/images/bg_motif.gif);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'satisfy';
+    background-repeat: repeat;
+}
+
+header{
+    background-image: url(/images/header.png);
+    height: 80px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    border-bottom: 2px solid #FFF;
+    top: 0px;
+    /* pour positionner la barre en haut afin que le texte,image passe en derrière */
+    z-index: 2999;
+
+}
+
+.logo{
+    float:left;
+    margin-top: 25px;
+    margin-left: 10%;
+    z-index: 3000;
+    
+
+}
+
+
+.header_navigation,.header_navigation ul{
+    list-style: none;
+    margin:0px;
+    padding: 0px;
+    margin-top: 30px;
+}
+
+.header_navigation{
+    text-align: right;
+    font-size: 2em;
+
+
+}
+
+.header_navigation li{
+    display: inline-block;
+    /* faire des blocks sur une ligne */
+    
+}
+
+.header_navigation ul li{
+    display: inherit;
+    /* ça supprime le comportement des liens du sous menu */
+}
+.header_navigation a{
+    text-decoration: none;
+    display: block;
+    color: #FFF;
+    padding-right: 50px;
+    padding-bottom: 3px;
+}
+.header_navigation a:hover{
+    /* hover applique le code au passage de la souris */
+    color:red;
+}
+.header_navigation ul{
+    position: absolute;
+    left: -999em;
+    /* on cache les sous menu complètement sur la gauche */
+    margin-top: 0px;
+    margin-left: 30px;
+    background-image: url(/images/header.png);
+}
+.header_navigation li:hover ul{
+    left: auto;
+    color: red;
+}
+.sous-menu>li{
+    border:solid 1px #FFF;
+    padding-left: 10px;
+
+}
+
+figure{
+    text-align: center;
+    margin-top: 150px;
+    
+}
+figcaption{
+    color:red;
+    background-color: #FFF;
+    font-size: 2em;
+    margin-bottom: 5px;
+    text-align: center;
+}
+figure>img{
+    margin-top: 20px;
+
+}
+.bordure{
+    border-top: solid 1px white;
+    margin-bottom: 40px;
+    margin-left: 35px;
+    margin-right: 35px;
+
+}
+main{
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(/images/container2.png);
+    top: auto;
+    position: relative;
+}
+article{
+    float: left;
+    width: 30%;
+    margin-left: 20px;
+    background-image: url(/images/bg_g.png);
+    background-repeat:no-repeat;
+}
+
+article img{
+    float:right;
+
+}
+article h2{
+   text-align: center;
+   color: #FFF;
+   
+}
+article p{
+    text-align: justify;
+
+}
+.clear{
+    clear: both;
+}
+
+.clear1{
+    clear: both;
+    margin: 0px;
+
+}
+
+article a{
+    display: block;
+    text-align: center;
+    background-color:#aaa;
+    color: black;
+    padding: 10px;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 100px;
+    text-decoration: none;
+}
+
+article a:hover{
+    color: red;
+    transition: 2s;
+    transform: rotate(-15deg) scale(1.5);
+    
 }

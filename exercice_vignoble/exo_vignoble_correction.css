@@ -1,17 +1,9 @@
 :root {
     --hauteur-menu: 10px;
   }
-  @font-face {
-    font-family: channel;
-    src: url("./fonts/channel-webfont.ttf") format("truetype"),
-      url("./fonts/oldsh___-webfont.woff2") format("woff");
-  }
-  @font-face {
-    font-family: OLDSSCH_;
-    src: url("./fonts/OLDSSCH_.TTF") format("truetype");
-  }
+  
   body {
-    background-image: url("bg_modif.gif");.
+    background-image: url("bg_modif.gif");
     margin: 0%;
     font-family: 'satisfy';
   }
