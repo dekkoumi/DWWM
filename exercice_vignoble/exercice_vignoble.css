@@ -154,11 +154,42 @@ article a{
     margin-right: auto;
     width: 100px;
     text-decoration: none;
+    transition-duration: 2s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(cubic-bezier(0,.93,.9,.34));
+    /* transition: 2s all linear; */
+    transition-delay: 1s;
+  
 }
 
 article a:hover{
     color: red;
     transition: 2s;
     transform: rotate(-15deg) scale(1.5);
+    
+}
+.section-menu h2{
+    color: #FFF;
+    
+}
+.section-menu a{
+    color:black;
+    text-decoration: none;  
+    font: size 1.5em;
+
+}
+.section-menu ul{
+    list-style: none;
+    
+}
+.section-menu li{
+    border-bottom: solid 1px #FFF;
+}
+.section-menu{
+    float: left;
+    margin-right: 100px;
+}
+.section2{
+    float: right;
     
 }
