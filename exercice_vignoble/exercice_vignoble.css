@@ -112,6 +112,7 @@ main{
     background-image: url(/images/container2.png);
     top: auto;
     position: relative;
+    box-shadow: -1px -0px  8px white;
 }
 article{
     float: left;
@@ -128,6 +129,7 @@ article img{
 article h2{
    text-align: center;
    color: #FFF;
+   text-shadow: 3px 3px 8px rgb(30, 28, 28);
    
 }
 article p{
@@ -166,6 +168,7 @@ article a:hover{
     color: red;
     transition: 2s;
     transform: rotate(-15deg) scale(1.5);
+    text-shadow:3px 3px 5px rgb(45, 2, 2);
     
 }
 .section-menu h2{
@@ -191,5 +194,6 @@ article a:hover{
 }
 .section2{
     float: right;
+    
     
 }
