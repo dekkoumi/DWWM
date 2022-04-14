@@ -7,19 +7,29 @@ fieldset{
     margin-left: auto;
     margin-right: auto;
     width: 30%; 
-    background-color:cadetblue ;
+    background-color:rgb(212, 226, 227) ;
     border-radius: 8px;
     padding: 15px;
    
     
 }
 input[type=text]{
-    display: block;
-    float: left;
+    display:inline-block;
+    
     margin-bottom: 10px;
     margin-right: 10px;
+    padding: 8px 5px
 }
 
-input[typ=button]{
+input[type=button]{
+    display: inline-block;
     margin-bottom: 10px;
+    width: 100px;
+    padding: 8px 0px;
+}
+legend{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4em;
+    color: rgb(213, 246, 242);
+    text-shadow:3px 3px 5px #000;
 }
