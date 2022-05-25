@@ -1,0 +1,160 @@
+.enfant{
+    display: grid;
+    grid-template-columns: 1.3fr 1.5fr 1.3fr;
+    grid-template-areas:1fr;
+    grid-template-areas: ". contact .";
+    
+}
+
+.contact{
+    grid-area: contact;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 3fr 1fr;
+    grid-template-areas: 
+    "paragraphe paragraphe"
+
+    "lblcivilite civilite"
+
+    "lblnom nom"
+
+    "lblprenom prenom"
+
+    "lbladresse adresse"
+
+    "lbltelephone telephone"
+
+    "lblemail email"
+
+    "lblobjet objet"
+
+    "lblmessage message"
+
+    "envoi . "
+    ;
+
+    background-color: #ccc;
+
+    padding: 2%;
+
+
+}
+
+#paragraphe{
+grid-area: paragraphe;
+justify-self: left;
+}
+
+#lblcivilite{
+grid-area: lblcivilite;
+justify-self: left;
+}
+
+#civilite{
+grid-area: civilite;
+justify-self: left;
+}
+
+#lablnom{
+grid-area: lblnom;
+justify-self: left;
+}
+#nom{
+grid-area:nom;
+justify-self: left;
+}
+
+#lblprenom{
+grid-area: lblprenom;
+justify-self: left;
+}
+
+#prenom{
+grid-area: prenom;
+justify-self: left;
+}
+
+#lbladresse{
+grid-area: lbladresse;
+justify-self: left;
+}
+
+#adresse{
+grid-area:adresse;
+justify-self: left;
+}
+
+#lbltelephone{
+grid-area: lbltelephone;
+justify-self: left;
+}
+#telephone{
+grid-area: telephone;
+justify-self: left;
+}
+
+#lblemail{
+grid-area: lblemail;
+justify-self: left;
+}
+
+#email{
+grid-area:email;
+justify-self: left;
+}
+
+#lblobjet{
+grid-area: lblobjet;
+justify-self: left;
+}
+
+#objet{
+grid-area: objet;
+justify-self: left;
+}
+
+#lblmessage{
+grid-area: lblmessage;
+justify-self: left;
+}
+
+#message{
+grid-area:message;
+justify-self: left;
+}
+#envoi{
+grid-area: envoi;
+justify-self: left;
+}
+
+#groupe{
+
+    width: 30%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #ccc;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(9,auto);
+    gap: 10px;
+    padding: 20px;
+}
+
+#group input{
+    grid-row: 2,3;
+
+}
+
+#groupe label{
+    grid-row:2,3;
+}
+
+#groupe input[type=button]{
+    width: 100px;
+    padding:10px;
+    border-radius: 6px;
+}
+.enfant{
+    text-align: center;
+    width: 100%;
+}
