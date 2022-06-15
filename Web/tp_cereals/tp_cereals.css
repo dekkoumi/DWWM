@@ -1,0 +1,29 @@
+body{
+    background-color: black; 
+}
+
+
+h1{
+
+    color: yellowgreen;
+    float: left;
+    margin-left: 8%;
+    margin-right:5%;
+}
+
+fieldset{
+    float: left;
+    margin-right:0%;
+    color: white;
+    background-color:#444 ;
+    margin-bottom: 20px;
+    
+}
+#rechercher{
+    height: 70px;
+
+}
+
+
+
+

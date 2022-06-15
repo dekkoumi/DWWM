@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="tp_cereals.js"defer></script>
+    <link rel="stylesheet" href="tp_cereals.css">
+    <title>Document</title>
+    
+</head>
+<body>
+    <h1>Cereals</h1>
+    <fieldset class="nutri1" id="rechercher">
+        <legend>rechercher</legend>
+        <input type="text" name="search" id="search" value="Nom du céréale">
+        <label for="search"> </label>
+        
+    </fieldset>
+    <fieldset class="nutri1" id="filtrer">
+         <legend>filtrer</legend>
+    
+    <fieldset id="nutriscore">
+        <legend class="nutriscore">Nutriscore</legend>
+        <label for="nutiscoreA">A</label>
+        <input type="checkbox" name=" nutriscoreA" id="nutriscoreA">
+        <label for="nutriscoreB">B</label>
+        <input type="checkbox" name="nutriscoreB" id="nutriscoreB">
+        <label for="nutriscoreC">C</label>
+        <input type="checkbox" name="nutriscoreC" id="nutriscoreC">
+        <label for="nutriscoreD">D</label>
+        <input type="checkbox" name="nutriscoreD" id="nutriscoreD">
+        <label for="nutriscoreE">E</label>
+        <input type="checkbox" name="nutriscoreE" id="nutriscoreE">
+    </fieldset>
+
+    <fieldset class="list">
+        <legend>Catégorie</legend>
+        <label for="list"></label>
+        <select name="list" id="list">
+            <option value="tous">Tous</option>
+            <option value="sans sucre">Sans sucre</option>
+            <option value="pauvre en sel">Pauvre en Sel</option>
+            <option value="boost">Boost</option>
+        </select>
+     </fieldset>
+    </fieldset>
+   
+    <table id="cereals" class="cereals">
+         </table>
+    
+</body>
+</html>
