@@ -8,7 +8,15 @@
 
 </head>
 <body>
-<form action="index.php" method="post" id="form1">
+<?php require("./pret.php") ;
+if (!empty($_POST["capital"])&& !empty($_POST["taux"])){
+    $monpret= new Pret (floatval($_POST["capital"]),floatval($_POST["taux"]),intval($_POST["remboursement"]));
+    $pret= $monpret->Mensualite();
+    echo "votre remboursement est de :".$pret."€ à regler par mois";
+
+}
+?>
+<form action="index.php" method="POST" id="form1">
 <label for="capital">Capital emprunté: </label>
 <input type="text" name="capital" id="capital" value='<?php
 if (!empty($POST["capital"])) 
@@ -16,7 +24,7 @@ if (!empty($POST["capital"]))
 
 <label for="taux"> Taux d'intérêt:</label>
 <input type="text" name="taux"id="taux" 
-value='<?php (!empty($_POST["taux"]))? print($_POST["taux"]):print("");?>'
+value='<?php $res_taux=(isset($_POST["taux"]))? ($_POST["taux"]):"0"; echo$res_taux?>'
 ><br>
 
 
@@ -25,8 +33,12 @@ value='<?php (!empty($_POST["taux"]))? print($_POST["taux"]):print("");?>'
 value='<?php (!empty($_POST["remboursement"]))? print($POST["rembousement"]): print("");?>'
 ><br>
 
+<label for="mensualite">Mensualité:</label>
+<input type="texte" name=" mensualite"id="mensualite" readonly="true" value='<?php $mensualite=(!empty($pret))? $pret: "0";echo $mensualite."€";?>'>
 
 <input type="submit" value="valider" id="valider" name="valider">
 </form>
+
+
 </body>
 </html>
