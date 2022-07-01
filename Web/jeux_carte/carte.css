@@ -1,0 +1,93 @@
+/* table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+  
+  thead th:nth-child(1) { */
+    /* width: 30%;
+  
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;  
+
+  } */
+#tabcarte{
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+position: relative;
+margin-top: 50px;
+}
+
+#bouton{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h1{
+  text-align: center;
+}
+#divImage{
+margin-bottom: 50px;
+color: white;
+width:30%;
+height: 500px;
+margin-right: auto;
+margin-left: auto;
+background-color: black;
+display: grid;
+grid-template-columns:4fr 1fr;
+grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+grid-template-areas: "character character"
+"image power"
+"image attack"
+"image defense"
+". .";
+}
+#character{
+  text-align: center;
+  grid-area: character;
+  background-color: darkgreen;
+}
+#nom{
+  font-size: 1.4em;
+  /* font-weight: bold; */
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+  grid-area:image; 
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#power{
+  grid-area: power;
+  text-align: center;
+  margin-right: 20px;
+}
+#attack{
+  grid-area: attack;
+  text-align: center;
+  margin-right: 20px;
+}
+
+#defense{
+  grid-area: defense;
+  text-align: center;
+  margin-right: 20px;
+}

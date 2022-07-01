@@ -1,0 +1,25 @@
+body{
+
+    background-color: #f2f2f2;
+   
+}
+
+#carouselExampleCaptions{
+
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 1%;
+   
+}
+
+fieldset{
+    background-color: gray;
+    border: 2px solid black;
+    width: 50%;
+    border-radius: 10px;
+    margin: auto;
+
+}
+
