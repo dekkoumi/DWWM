@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    
+}
+
+form{
+    display: grid;
+    
+
+
+}
+
+.inputnom{
+    border-color: aquamarine;
+    
+}
+
+.inputprenom{
+    border-color: aquamarine;
+}
