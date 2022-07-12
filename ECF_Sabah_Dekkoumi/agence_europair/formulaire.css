@@ -1,0 +1,40 @@
+
+form{
+    background-color:white;
+    width:50%;
+    margin:auto;
+    padding:10px;
+}
+
+.inputnom{
+    width:100%;
+    padding:10px;
+    border:1px solid black;
+    margin-bottom:10px;
+}
+.inputprenom{
+    width:100%;
+    padding:10px;
+    border:1px solid black;
+    margin-bottom:10px;
+}
+.inputemail{
+    width:100%;
+    padding:10px;
+    border:1px solid black;
+    margin-bottom:10px;
+}
+.inputpassword{
+    width:100%;
+    padding:10px;
+    border:1px solid black;
+    margin-bottom:10px;
+}
+
+button{
+    background-color:black;
+    color:white;
+    padding:10px;
+    border:1px solid black;
+    margin-bottom:10px;
+}

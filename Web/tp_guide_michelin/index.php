@@ -12,7 +12,9 @@
    <?php
    require("MyTable.php");
    $dsn="mysql:dbname=".BASE.";host=".SERVER;
-   
+   try{
+    
+   }
 
 
 

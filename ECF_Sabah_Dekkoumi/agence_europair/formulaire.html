@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECF</title>
+    <link rel="stylesheet" href="formulaire.css">
+    <link rel="stylesheet" href="inscription.html">
+    <script src="formulaire.js" defer></script>
+
+
+</head>
+<body>
+    <form action="inscription.html" methode="get">
+        <label for="nom" id="nom">Nom</label>
+        <input classe="inputnom" type="text"id="nom"><br>
+    
+    
+        <label for="prenom"id="prenom">Prénom</label>
+        <input classe="inputprenom" type="text"id="prenom"><br>
+    
+        <label for="email">Email</label>
+        <input classe="inputemail" type="email"id="email"><br>
+    
+        <label for="motdepasse"id="motdepasse">Mot de passe</label>
+        <input classe="inputmotdepasse" type="password"id="motdepasse"><br>
+
+        <label for="verificationmotdepasse"id="verificationmotdepasse">Vérification du mot de passe</label>
+        <input classe="inputverificationmotdepasse" type="password"id="verificationmotdepasse"><br>
+
+        <label for="departementdevotredomicile"id="departementdevotredomicile">Département de votre domicile</label>
+        <input classe="inputdepartementdevotredomicile" type="text"id="departementdevotredomicile"><br>
+
+        <label for="votredepartement"id="votredepartement">Choisir un Département</label>
+        <input classe="departementdevotredomicile" type="number"id="votredepartement"><br>
+
+        <label for="votreage"id="votreage">Votre age</label>
+        <input classe="inputvotreage" type="number"id="votreage"><br>
+        Entrez votre age: <input id="age">
+        <button onclick="check()">Vérifier</button>
+
+        <button type="valider">Valider</button>
+    
+    
+        </form>
+
+</body>
+</html>
