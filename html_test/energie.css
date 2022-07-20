@@ -23,12 +23,12 @@ h2{
 body{
 
         background-color: white;
-        background-image: url("energie\ boule.jpg");
+        background-image: url("contact.jpg");
         background-position: 25%;
         background-repeat: no-repeat;
         background-size: 100%;
         background-attachment: fixed;
-        color: white;
+        color:white;
         font-size: large;
         font-family:monospace;
         
@@ -76,8 +76,8 @@ article{
 }
 .menu a.actif {    
     background-color: #000 ; 
-    color: violet;
-    border-color: violet;
+    color: pink;
+    border-color: pink;
 }
 .menu a:hover,
 .menu a:hover.actif{
