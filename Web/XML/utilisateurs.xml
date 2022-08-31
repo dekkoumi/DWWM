@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<utilisateurs>
+  <utilisateur type="Prof Info">
+    <nom>PASTORE</nom>
+    <prénom>Sébastien</prénom>
+    <mél>spastore2 at free.fr</mél>
+    <date-naissance>1973-02-25</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>DUBUISSON</nom>
+    <prénom>Christophe</prénom>
+    <mél>chrsitophe.dubuisson at laposte.net</mél>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>BONVALOT</nom>
+    <prénom>Romain</prénom>
+    <mél>nikanoru_du_84 at hotmail.com</mél>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>LUCK</nom>
+    <prénom>Florent</prénom>
+    <mél>luckflorent at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1986-06-02</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>TRAN</nom>
+    <prénom>Alexandre</prénom>
+    <mél>glakistro at yahoo.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1986-11-24</date-naissance>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>ESQUIROL</nom>
+    <prénom>Georges</prénom>
+    <mél>georges.esquirol at free.fr</mél>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>LEGRAND</nom>
+    <prénom>Marie-Pierre</prénom>
+    <mél>cuny.legrand at wanadoo.fr</mél>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>TEXTORIS</nom>
+    <prénom>André</prénom>
+    <mél>andre.textoris at wanadoo.fr</mél>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>LAUTHIER</nom>
+    <prénom>Maria</prénom>
+    <mél>maria.parsi at wanadoo.fr</mél>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>STROZZI</nom>
+    <prénom>Alexa</prénom>
+    <mél>alexa.strozzi at laposte.net</mél>
+  </utilisateur>
+  <utilisateur type="Prof Info">
+    <nom>GIRARD</nom>
+    <prénom>Gilles</prénom>
+    <mél>gilles.girard at wanadoo.fr</mél>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>MORALES</nom>
+    <prénom>Johan</prénom>
+    <mél>championut at hotmail.com</mél>
+    <date-naissance>1986-10-01</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>TORRES</nom>
+    <prénom>Cédric</prénom>
+    <mél>ced_the_pain_persists_even_after_all_this_time at hotmail.fr</mél>
+    <date-naissance>1985-01-03</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>TERRIER</nom>
+    <prénom>Charly</prénom>
+    <mél>charly.terrier at laposte.net</mél>
+    <date-naissance>1984-11-29</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>DUMAS</nom>
+    <prénom>Romain</prénom>
+    <mél>zenenbru at hotmail.com</mél>
+    <date-naissance>1984-06-29</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>BESSAC</nom>
+    <prénom>Nicolas</prénom>
+    <mél>tarba_supreme84 at hotmail.com</mél>
+    <date-naissance>1987-07-29</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>PHILIPPE</nom>
+    <prénom>Stéphane</prénom>
+    <mél>philippe.stephane84 at laposte.net</mél>
+    <date-naissance>1984-11-19</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>TRIBOULAT</nom>
+    <prénom>Yann</prénom>
+    <mél>dj_farfade at hotmail.com</mél>
+    <date-naissance>1986-12-13</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>TAELMAN</nom>
+    <prénom>Arnaud</prénom>
+    <mél>shinryu_666 at hotmail.com</mél>
+    <date-naissance>1987-02-20</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>SOUVERAIN</nom>
+    <prénom>Rémi</prénom>
+    <mél>remi at souverain.org</mél>
+    <date-naissance>1986-08-07</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>BONMATI</nom>
+    <prénom>Yannick</prénom>
+    <mél>yannick.bonmati at laposte.net</mél>
+    <date-naissance>1986-06-10</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>CORTIAL</nom>
+    <prénom>Aurélien</prénom>
+    <mél>aurelien.cortial at laposte.net</mél>
+    <date-naissance>1985-07-05</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>VIVIEN</nom>
+    <prénom>Thomas</prénom>
+    <mél>le_bastidon_chartrain at hotmail.com</mél>
+    <date-naissance>1984-07-22</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>CHARAMON</nom>
+    <prénom>Gaëlle</prénom>
+    <mél>andrea_434 at hotmail.com</mél>
+    <date-naissance>1988-01-09</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>GIRAUD</nom>
+    <prénom>Arielle</prénom>
+    <mél>LalyCherieNounours at hotmail.com</mél>
+    <date-naissance>1986-07-15</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG DA">
+    <nom>HEBERT</nom>
+    <prénom>Dorian</prénom>
+    <mél>dodocube at hotmail.com</mél>
+    <date-naissance>1984-11-03</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>VERA</nom>
+    <prénom>Fanny</prénom>
+    <groupe>2</groupe>
+    <date-naissance>1987-07-26</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>SOLIGNY</nom>
+    <prénom>Jérémie</prénom>
+    <mél>indoril at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1988-06-21</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>SKROMNY</nom>
+    <prénom>Mélanie</prénom>
+    <mél>melanie_84_7 at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-05-03</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>SIONG</nom>
+    <prénom>Tiay</prénom>
+    <mél>z_neko at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-11-24</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>REYNAUD</nom>
+    <prénom>Fabien</prénom>
+    <mél>mx.blaster at free.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-03-06</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>REPICAND</nom>
+    <prénom>Mylène</prénom>
+    <mél>pumphonias at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-06-21</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>PINFERI</nom>
+    <prénom>Mélissa</prénom>
+    <mél>mloutrew6 at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-12-20</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>PHILIPPE</nom>
+    <prénom>Mikael</prénom>
+    <groupe>2</groupe>
+    <date-naissance>1988-01-11</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>MIALLAUD</nom>
+    <prénom>Antoine</prénom>
+    <groupe>2</groupe>
+    <date-naissance>1987-06-28</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>MAZAURIC</nom>
+    <prénom>Benjamin</prénom>
+    <groupe>2</groupe>
+    <date-naissance>1989-02-27</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>MALGOIRE</nom>
+    <prénom>July</prénom>
+    <mél>adresse-de-messagerie at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1987-10-13</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>JUVIGNY</nom>
+    <prénom>Etienne</prénom>
+    <mél>Ti3noU at hotmail.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-05-30</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>HORVAT</nom>
+    <prénom>Marina</prénom>
+    <groupe>2</groupe>
+    <date-naissance>1987-08-19</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>HALLIER</nom>
+    <prénom>Cindy</prénom>
+    <mél>tchoup30 at hotmail.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-10-17</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>GUYEN</nom>
+    <prénom>Jill</prénom>
+    <mél>jillou_5 at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-09-05</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>CORTES</nom>
+    <prénom>José</prénom>
+    <groupe>1</groupe>
+    <date-naissance>1988-03-25</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>CLERICI</nom>
+    <prénom>Mathieu</prénom>
+    <mél>matsquall at free.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1989-01-07</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>CHERGUI</nom>
+    <prénom>Adel</prénom>
+    <groupe>1</groupe>
+    <date-naissance>1988-08-22</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>BRUNIER</nom>
+    <prénom>Pascal</prénom>
+    <mél>mixcisz at free.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-11-10</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>BOCCABELLA</nom>
+    <prénom>Ugo</prénom>
+    <groupe>1</groupe>
+    <date-naissance>1989-05-07</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>BENGUIGUI</nom>
+    <prénom>Aurore</prénom>
+    <mél>poupy08 at hotmail.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-02-08</date-naissance>
+  </utilisateur>
+  <utilisateur type="Terminale STG GSI">
+    <nom>BAZIN</nom>
+    <prénom>Frédéric</prénom>
+    <mél>the_kinslayer at hotmail.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1989-05-08</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>VERGNAUD</nom>
+    <prénom>Alexandre</prénom>
+    <mél>Light_alex at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1987-07-27</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>VALLESPI</nom>
+    <prénom>Nicolas</prénom>
+    <mél>nicothebest30 at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1989-03-16</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>SARRAMEGNA</nom>
+    <prénom>Guillaume</prénom>
+    <mél>dorfpowa at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1984-04-18</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>RAVEAU</nom>
+    <prénom>Mickael</prénom>
+    <mél>raveau.mickael at free.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1985-06-06</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>NGUYEN</nom>
+    <prénom>Jérôme</prénom>
+    <mél>knives-swordmaster at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1988-03-21</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>NAVARO</nom>
+    <prénom>Fabrice</prénom>
+    <mél>firestorm_834 at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1986-09-07</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>MONNET</nom>
+    <prénom>Etienne</prénom>
+    <mél>mrevolution_777 at hotmail.com</mél>
+    <groupe>2</groupe>
+    <date-naissance>1988-03-06</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>MESLEM</nom>
+    <prénom>Wahid</prénom>
+    <mél>ony84 at hotmail.fr</mél>
+    <groupe>2</groupe>
+    <date-naissance>1986-05-18</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>LUSSO</nom>
+    <prénom>Pierre</prénom>
+    <mél>pierre.lusso at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1986-07-18</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>DI FELICE</nom>
+    <prénom>Romain</prénom>
+    <mél>difeliceromain at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-11-14</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>DI FELICE</nom>
+    <prénom>Cyril</prénom>
+    <mél>difelice.cyril at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1987-07-17</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>DEVILLE</nom>
+    <prénom>Jonathan</prénom>
+    <mél>jo.deville at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1987-10-02</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>DE CARVALHO</nom>
+    <prénom>Geoffroy</prénom>
+    <mél>genesis_5187 at hotmail.com</mél>
+    <groupe>1</groupe>
+    <date-naissance>1986-07-27</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>CARUEL</nom>
+    <prénom>Adrien</prénom>
+    <mél>adrien.caruel at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1987-03-11</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>BENECH</nom>
+    <prénom>Nicolas</prénom>
+    <mél>ben84 at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-06-01</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>BARIAL</nom>
+    <prénom>Romain</prénom>
+    <mél>r.barial at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1988-10-03</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>BAIERLEIN</nom>
+    <prénom>Simon</prénom>
+    <mél>baierlein.simon at laposte.net</mél>
+    <groupe>1</groupe>
+    <date-naissance>1986-03-31</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>XUEREF</nom>
+    <prénom>Anthony</prénom>
+    <mél>axueref at laposte.net</mél>
+    <date-naissance>1985-05-29</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>VIALA</nom>
+    <prénom>Romain</prénom>
+    <mél>romain.viala at midgard.info</mél>
+    <date-naissance>1987-05-13</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>SOCKEEL</nom>
+    <prénom>Fabien</prénom>
+    <mél>psykotik_2 at hotmail.com</mél>
+    <date-naissance>1987-03-05</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>MORAND</nom>
+    <prénom>Simon</prénom>
+    <mél>simon.morand84 at laposte.net</mél>
+    <date-naissance>1987-12-20</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>LAURENT</nom>
+    <prénom>Gabriel</prénom>
+    <mél>galaurent at laposte.net</mél>
+    <date-naissance>1984-07-14</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>LAURENT</nom>
+    <prénom>Benjamin</prénom>
+    <mél>laurent.benjamin2 at laposte.net</mél>
+    <date-naissance>1985-10-31</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>JOUENNE</nom>
+    <prénom>Dorian</prénom>
+    <mél>dorian890 at hotmail.com</mél>
+    <date-naissance>1987-11-26</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>HOCHEDE</nom>
+    <prénom>Vincent</prénom>
+    <mél>vincent84 at tiscali.fr</mél>
+    <date-naissance>1985-01-23</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>DI MASCIO</nom>
+    <prénom>Yoann</prénom>
+    <mél>dimayo5 at hotmail.com</mél>
+    <date-naissance>1987-07-14</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>CHABRAN</nom>
+    <prénom>Olivier</prénom>
+    <mél>darkshadow.dtc at hotmail.fr</mél>
+    <date-naissance>1987-11-17</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>BLUTEAU</nom>
+    <prénom>David</prénom>
+    <mél>bluteau_david at hotmail.com</mél>
+    <date-naissance>1985-08-08</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>BOURLES</nom>
+    <prénom>Cédric</prénom>
+    <mél>toun.rolyste at gmail.com</mél>
+    <date-naissance>1985-05-08</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>AYGLON</nom>
+    <prénom>Emilien</prénom>
+    <mél>zemilien at gmail.com</mél>
+    <date-naissance>1985-02-01</date-naissance>
+  </utilisateur>
+  <utilisateur type="2TSIG ARLE">
+    <nom>BENZAKIN</nom>
+    <prénom>Meryll</prénom>
+    <mél>chidori_kuruma_3 at hotmail.com</mél>
+    <date-naissance>1984-11-22</date-naissance>
+  </utilisateur>
+  <utilisateur type="1TSIG">
+    <nom>FABRE</nom>
+    <prénom>Gaël</prénom>
+    <mél>pix_angel at hotmail.fr</mél>
+    <groupe>1</groupe>
+    <date-naissance>1987-05-26</date-naissance>
+  </utilisateur>
+  <utilisateur type="Prof autre">
+    <nom>GOURRET</nom>
+    <prénom>Benoît</prénom>
+    <mél>benoit.gourret at laposte.net</mél>
+  </utilisateur>
+  <utilisateur type="Prof autre">
+    <nom>HERRMANN</nom>
+    <prénom>Charles</prénom>
+    <mél>charles.herrmann at laposte.net</mél>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>CARA</nom>
+    <prénom>Anne-Sophie</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>ABDELADIM</nom>
+    <prénom>Hasna</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>ABENSOUR</nom>
+    <prénom>Nathaniel</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>AKAABOUNE</nom>
+    <prénom>Samira</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>BACH THAI</nom>
+    <prénom>Clément</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>BEAUMONT</nom>
+    <prénom>Ketty</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>BENNAR</nom>
+    <prénom>Laëtitia</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>CASTEL</nom>
+    <prénom>Nathalie</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>DIEU</nom>
+    <prénom>Stéphane</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>INNOCENTI</nom>
+    <prénom>Damien</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>JEANCLAUDE</nom>
+    <prénom>Jérôme</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>LADU</nom>
+    <prénom>Marie-Ange</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>LECOUSTRE</nom>
+    <prénom>Julie</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>MARTAL</nom>
+    <prénom>Dorothée</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>MEOU</nom>
+    <prénom>Pierre</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>ORACZ</nom>
+    <prénom>Camille</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>PAILHON</nom>
+    <prénom>Julie</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>PAULEAU</nom>
+    <prénom>Elodie</prénom>
+    <groupe>2</groupe>
+  </utilisateur>
+  <utilisateur type="IUT Tech. Co. Alt.">
+    <nom>DELPUECH</nom>
+    <prénom>Michaël</prénom>
+    <groupe>1</groupe>
+  </utilisateur>
+</utilisateurs>

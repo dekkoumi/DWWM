@@ -1,0 +1,1 @@
+let nom1 = prompt ("nom1plz")

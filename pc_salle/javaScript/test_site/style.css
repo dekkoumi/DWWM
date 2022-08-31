@@ -1,0 +1,14 @@
+/*body = arriere plan du site*/
+body{ 
+    /* background-color: rgb(44, 4, 82); */
+}
+.lien_menu a{
+    color: red;
+    margin-top: 50%;
+}
+
+#article h1{
+    text-decoration: underline overline white;
+    text-shadow: 2px 2px 2px red;
+    font-size: 12em;
+}

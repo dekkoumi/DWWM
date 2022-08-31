@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT discotheque (disque+)>
+<!ELEMENT disque (titre, annee?, label?, artiste*)>
+
+	<!ELEMENT titre (#PCDATA)>
+	<!ELEMENT annee (#PCDATA)>
+	<!ELEMENT label (#PCDATA)>
+	<!ELEMENT artiste (#PCDATA)>
+<!ATTLIST disque support (CDPirate|mp3|K7Vidéo|MiniDisc|CD|CDCompil|CDLive|DVD) #REQUIRED>

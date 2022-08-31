@@ -1,0 +1,17 @@
+DROP DATABASE IF EXISTS db_beach;
+CREATE;
+
+CREATE DATABASE IF EXISTS db_beach;
+CREATE TABLE IF NOT EXISTS beach_nature_land
+(
+
+beach_gallet VARCHAR(10),
+beach_sand VARCHAR(10),
+beach_rock VARCHAR(10)
+
+);
+
+ALTER VIEW
+
+
+DROP TABLE

@@ -1,0 +1,63 @@
+FONCTIONS_UTILISEES
+VARIABLES
+  faim EST_DU_TYPE NOMBRE
+  place_disponible_assiette EST_DU_TYPE NOMBRE
+  plats_dispo EST_DU_TYPE LISTE
+  plaisir_plat EST_DU_TYPE NOMBRE
+  digestif EST_DU_TYPE NOMBRE
+  cafe EST_DU_TYPE NOMBRE
+  service_bon EST_DU_TYPE NOMBRE
+  nombre_total_de_plats EST_DU_TYPE NOMBRE
+  plat_devant_moi EST_DU_TYPE NOMBRE
+DEBUT_ALGORITHME
+  AFFICHER* "Je me lave les mains"
+  faim PREND_LA_VALEUR 1
+  POUR nombre_total_de_plats ALLANT_DE 1 A 5
+    DEBUT_POUR
+    LIRE plats_dispo[nombre_total_de_plats]
+    FIN_POUR
+  TANT_QUE (faim) FAIRE
+    DEBUT_TANT_QUE
+    AFFICHER* "Je prend une assiette propre et vide"
+    place_disponible_assiette PREND_LA_VALEUR 4
+    plat_devant_moi PREND_LA_VALEUR 1
+    TANT_QUE (plat_devant_moi < 6) FAIRE
+      DEBUT_TANT_QUE
+      AFFICHER* "Le plat devant vous vous intéresse-t-il ?"
+      LIRE plaisir_plat
+      SI (plaisir_plat ET plats_dispo[plat_devant_moi] ET place_disponible_assiette) ALORS
+        DEBUT_SI
+        AFFICHER* "Je prend une portion du plat devant moi"
+        place_disponible_assiette PREND_LA_VALEUR place_disponible_assiette - 1
+        plats_dispo[plat_devant_moi] PREND_LA_VALEUR plats_dispo[plat_devant_moi] -1
+        FIN_SI
+        SINON
+          DEBUT_SINON
+          AFFICHER* "Je ne me sers pas (par manque d'envie, de place ou de quantité dispo)"
+          FIN_SINON
+      plat_devant_moi PREND_LA_VALEUR plat_devant_moi + 1
+      FIN_TANT_QUE
+    AFFICHER* "Je vais m'asseoir et je mange"
+    AFFICHER* "Avez-vous encore faim ?"
+    LIRE faim
+    FIN_TANT_QUE
+  AFFICHER* "Désirez-vous un café ?"
+  LIRE cafe
+  AFFICHER* "Souhaiteriez-vous un digestif ?"
+  LIRE digestif
+  SI (cafe OU digestif) ALORS
+    DEBUT_SI
+    AFFICHER* "Je bois ma commande"
+    FIN_SI
+  AFFICHER* "Je demande l'addition"
+  AFFICHER* "Est-ce que le service était bon ?"
+  LIRE service_bon
+  SI (service_bon) ALORS
+    DEBUT_SI
+    AFFICHER "Je paie et je donne un pourboire !"
+    FIN_SI
+    SINON
+      DEBUT_SINON
+      AFFICHER "Je paie et je laisse un avis négatif"
+      FIN_SINON
+FIN_ALGORITHME

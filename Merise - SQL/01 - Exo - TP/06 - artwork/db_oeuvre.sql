@@ -1,0 +1,60 @@
+DROP DATABASE IF EXISTS db_oeuvre;
+
+CREATE DATABASE IF NOT EXISTS db_oeuvre;
+
+USE db_oeuvre;
+
+CREATE TABLE IF NOT EXISTS ARTWORKS
+(
+ARTWORK_ID int primary key,
+ARTWORK_TYPE varchar(24) not null,
+ARTWORK_TITLE varchar(24) not null,
+ARTWORK_MATERIAL varchar(16) not null,
+ARTWORK_DIMENSION decimal (5.2) not null,
+ARTWORK_COUNT int
+);
+
+CREATE TABLE IF NOT EXISTS ARTISTICS_CURRENTS
+(
+ARTISTIC_CURRENT_NAME varchar(32),
+ARTISTIC_CURRENT_DESCRIPTION varchar(32) not null,
+ARTISTIC_CURRENT_DATE  date not null,
+ARTWORK_ID int,
+primary key (ARTISTIC_CURRENT_NAME, ARTWORK_ID),
+foreign key (ARTWORK_ID) references ARTwORKS (ARTWORK_ID)
+);
+
+CREATE TABLE IF NOT EXISTS ARTISTS
+(
+ARTIST_ID int primary key,
+ARTIST_LASTNAME varchar(32) not null,
+ARTIST_FIRSTNAME varchar(32) not null,
+ARTIST_NATIONNALITY varchar(32) not null,
+ARTIST_DATE_OF_BIRTH date not null,
+ARTIST_DATE_OF_DEATH date
+);
+
+CREATE TABLE IF NOT EXISTS MUSEUMS
+(
+MUSEUM_ID int primary key,
+MUSEUM_NAME varchar(24) not null,
+MUSEUM_LOCATION varchar(32) not null
+);
+
+CREATE TABLE IF NOT EXISTS EXPOSES
+(
+ARTWORK_ID int,
+MUSEUM_ID int,
+primary key(ARTWORK_ID, MUSEUM_ID),
+foreign key (ARTWORK_ID) references ARTWORKS(ARTWORK_ID),
+foreign key (MUSEUM_ID) references MUSEUMS(MUSEUM_ID)
+);
+
+CREATE TABLE IF NOT EXISTS MAKES
+(
+ARTWORK_ID int,
+ARTIST_ID int,
+primary key (ARTWORK_ID, ARTIST_ID),
+foreign key (ARTWORK_ID) references ARTWORKS(ARTWORK_ID),
+foreign key (ARTIST_ID) references ARTISTS (ARTIST_ID)
+);

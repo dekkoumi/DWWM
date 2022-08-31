@@ -1,0 +1,3 @@
+USE db_biblio;
+
+SELECT * FROM CUSTOMERS;

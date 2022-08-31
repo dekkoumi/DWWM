@@ -1,0 +1,3027 @@
+<?xml version="1.0" encoding="ISO-8859-1"  standalone="no"?>
+<!DOCTYPE discotheque SYSTEM "lesDisques.dtd">
+
+<discotheque>
+  <disque support="MiniDisc">
+    <titre>First rays of the new rising sun</titre>
+    <annee>1997</annee>
+    <label>MCA Records</label>
+    <artiste>Jimi HENDRIX</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Axis : Bold as love</titre>
+    <annee>1967</annee>
+    <label>MCA Records</label>
+    <artiste>Jimi HENDRIX</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Are you experienced ?</titre>
+    <annee>1967</annee>
+    <label>MCA Records</label>
+    <artiste>Jimi HENDRIX</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Electric Ladyland</titre>
+    <annee>1968</annee>
+    <label>MCA Records</label>
+    <artiste>Jimi HENDRIX</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Synth'axe</titre>
+    <annee>1992</annee>
+    <label>Digital Concept</label>
+    <artiste>Sébastien PASTORE</artiste>
+    <artiste>Bernard WEADLING</artiste>
+    <artiste>Olivier RONGIONE</artiste>
+    <artiste>Vianney TAUFOUR</artiste>
+    <artiste>Anthea</artiste>
+    <artiste>Eric BESSE</artiste>
+    <artiste>Jean-Luc VALTEAU</artiste>
+    <artiste>Nick WALD</artiste>
+    <artiste>Joakim YAMA</artiste>
+    <artiste>Ludovic GOMBERT</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Greatest Hits</titre>
+    <annee>1967</annee>
+    <label>Sony Music</label>
+    <artiste>Bob DYLAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Supernatural</titre>
+    <annee>1975</annee>
+    <label>Sony Music</label>
+    <artiste>Santana</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Infidels</titre>
+    <annee>1983</annee>
+    <label>Sony Music</label>
+    <artiste>Bob DYLAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Street Legal</titre>
+    <annee>1978</annee>
+    <label>Sony Music</label>
+    <artiste>Bob DYLAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Paul Simon</titre>
+    <annee>1972</annee>
+    <label>Warner Bros. Records</label>
+    <artiste>Paul SIMON</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Pluriel</titre>
+    <annee>2000</annee>
+    <label>Sony Music</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Carol FREDERICKS</artiste>
+    <artiste>Michael JONES</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The boys from Yesterday (CD 2)</titre>
+    <annee>1994</annee>
+    <label>Cocomelos Records</label>
+    <artiste>Eagles</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Supernatural</titre>
+    <annee>1999</annee>
+    <label>Arista Records</label>
+    <artiste>Carlos SANTANA</artiste>
+    <artiste>Dave MATTHEWS</artiste>
+    <artiste>Everlast</artiste>
+    <artiste>Rob THOMAS</artiste>
+    <artiste>Lauryn HILL</artiste>
+    <artiste>Cee-Lo</artiste>
+    <artiste>Mana</artiste>
+    <artiste>Eagle-Eye CHERRY</artiste>
+    <artiste>Eric CLAPTON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>White eagle</titre>
+    <annee>1982</annee>
+    <label>Virgin</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Johannes SCHMOELLING</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Remember Cat Stevens</titre>
+    <annee>1999</annee>
+    <label>Universal - Island Records</label>
+    <artiste>Cat STEVENS</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The best of Kansas</titre>
+    <annee>1984</annee>
+    <label>Corn &amp; Blood</label>
+    <artiste>Kansas</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Master Serie - Serge GAINSBOURG (vol. 3)</titre>
+    <annee>1990</annee>
+    <label>Polygram</label>
+    <artiste>Serge GAINSBOURG</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tyger</titre>
+    <annee>1987</annee>
+    <label>Jive</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Underwater sunlight</titre>
+    <annee>1986</annee>
+    <label>Jive</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Force majeure</titre>
+    <annee>1979</annee>
+    <label>Virgin Records</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Steve JOLIFFE</artiste>
+    <artiste>Klaus KRIEGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Oasis</titre>
+    <annee>1997</annee>
+    <label>TDI Music International</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Jerome FROESE</artiste>
+    <artiste>Zlatko PERIKA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Goblin's club</titre>
+    <annee>1996</annee>
+    <label>Tadream Music</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Jerome FROESE</artiste>
+    <artiste>Linda SPA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Green desert</titre>
+    <annee>1973</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Rubycon</titre>
+    <annee>1975</annee>
+    <label>Virgin Records</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Atem</titre>
+    <annee>1973</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Zeit</titre>
+    <annee>1972</annee>
+    <label>Jive</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+    <artiste>Florian FRICKE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Pergamon</titre>
+    <annee>1980</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Johannes SCHMOELLING</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Poland</titre>
+    <annee>1984</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Johannes SCHMOELLING</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Le parc</titre>
+    <annee>1985</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Johannes SCHMOELLING</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Lily on the beach</titre>
+    <annee>1989</annee>
+    <label>Private</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tangram</titre>
+    <annee>1980</annee>
+    <label>Virgin Records</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Johannes SCHMOELLING</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Encore</titre>
+    <annee>1977</annee>
+    <label>Virgin Records</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Stratosfear</titre>
+    <annee>1976</annee>
+    <label>Virgin Music</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Peter BAUMANN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Rockoon</titre>
+    <annee>1992</annee>
+    <label>Tadream Music</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Jerome FROESE</artiste>
+    <artiste>Zlatko PERIKA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Logos</titre>
+    <annee>1983</annee>
+    <label>Hansa</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Optical Race</titre>
+    <annee>1988</annee>
+    <label>Private</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Live miles</titre>
+    <annee>1988</annee>
+    <label>Tadream Music Production</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>La musique des films</titre>
+    <annee>1996</annee>
+    <label>Virgin France</label>
+    <artiste>Eric SERRA</artiste>
+    <artiste>Arthur SIMMS</artiste>
+    <artiste>Vanessa PARADIS</artiste>
+    <artiste>Noa</artiste>
+    <artiste>Rupert HINE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Atlantis</titre>
+    <annee>1991</annee>
+    <label>Edition la Marguerite</label>
+    <artiste>Eric SERRA</artiste>
+    <artiste>Vanessa PARADIS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Le mage de Boheme</titre>
+    <annee>1991</annee>
+    <label>Jupiter</label>
+    <artiste>Claude GALLENCA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Mosaïque</titre>
+    <annee>1993</annee>
+    <label>Jupiter</label>
+    <artiste>Claude GALLENCA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Gattaca</titre>
+    <annee>1997</annee>
+    <label>Columbia Pictures</label>
+    <artiste>Michael NYMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Hardware</titre>
+    <annee>1990</annee>
+    <label>BMG</label>
+    <artiste>Simon BOSWELL</artiste>
+    <artiste>Iggy POP</artiste>
+    <artiste>Kaduta MASSI</artiste>
+    <artiste>Lemmy</artiste>
+    <artiste>lain JOURGSEN</artiste>
+    <artiste>Paul BARKER</artiste>
+    <artiste>Gioacchino</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Navigator</titre>
+    <annee>1997</annee>
+    <label>IC/DigItMusic</label>
+    <artiste>Symbian</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Return of the comet</titre>
+    <annee>1988</annee>
+    <label>Hearts of Space Records</label>
+    <artiste>David LANGE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Richard Wahnfried - Tonwelle</titre>
+    <annee>1990</annee>
+    <label>IC/DigIt Music</label>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Manuel GOTTSCHING</artiste>
+    <artiste>Mike SHRIEVE</artiste>
+    <artiste>Karl WAHNFRIED</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Angel One</titre>
+    <annee>1994</annee>
+    <label>Max HUCHET</label>
+    <artiste>Max HUCHET</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Magister</titre>
+    <annee>1993</annee>
+    <label>Max HUCHET</label>
+    <artiste>Max HUCHET</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Ghost</titre>
+    <annee>1990</annee>
+    <label>Paramount Pictures</label>
+    <artiste>Maurice JARRE</artiste>
+    <artiste>Alex NORTH</artiste>
+    <artiste>Hy ZARET</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Silk road</titre>
+    <annee>1980</annee>
+    <label>Canyon Records</label>
+    <artiste>Kitaro</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>From the full moon story</titre>
+    <annee>1979</annee>
+    <label>Sound Design</label>
+    <artiste>Kitaro</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Sound effects 1 - Bruitages Vol. 1</titre>
+    <label>Disque DOM</label>
+  </disque>
+  <disque support="CD">
+    <titre>Là-haut les murailles</titre>
+    <annee>1990</annee>
+    <label>Sepam Milan</label>
+    <artiste>Godefroy de MAUPEOU</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Memorial beach</titre>
+    <annee>1993</annee>
+    <label>Warner Bros. Records</label>
+    <artiste>A-ha</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Point break</titre>
+    <annee>1991</annee>
+    <label>MCA Records</label>
+    <artiste>Ratt</artiste>
+    <artiste>L.A. Guns</artiste>
+    <artiste>Wire Train</artiste>
+    <artiste>Concrete Blonde</artiste>
+    <artiste>Liquid Jesus</artiste>
+    <artiste>Loudhouse</artiste>
+    <artiste>Shark Island</artiste>
+    <artiste>Public Image Limited</artiste>
+    <artiste>Westworld</artiste>
+    <artiste>Sheryl CROW</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Mega rythmes !</titre>
+    <annee>1996</annee>
+    <label>Musiques &amp; Solutions</label>
+    <artiste>Gilbert MONTAGNE</artiste>
+    <artiste>Michel FUGAIN</artiste>
+    <artiste>Paco</artiste>
+    <artiste>Los Dingos</artiste>
+    <artiste>Two Man Sound</artiste>
+    <artiste>Leopold NORD</artiste>
+    <artiste>Rose LAURENS</artiste>
+    <artiste>Jean-Pierre MADER</artiste>
+    <artiste>Images</artiste>
+    <artiste>Mungo JERRY</artiste>
+    <artiste>KC</artiste>
+    <artiste>The Sunshine Band</artiste>
+    <artiste>The Rubettes</artiste>
+    <artiste>Whigfield</artiste>
+    <artiste>Ice MC</artiste>
+    <artiste>Corona</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Génération Synthétiseur 95</titre>
+    <annee>1995</annee>
+    <label>France Loisir - Music Club</label>
+    <artiste>Eric SERRA</artiste>
+    <artiste>Vangelis</artiste>
+    <artiste>Azareth</artiste>
+    <artiste>Marth</artiste>
+    <artiste>John WILLIAMS</artiste>
+    <artiste>Richard STRAUSS</artiste>
+    <artiste>G. WEISS</artiste>
+    <artiste>B. THIELE</artiste>
+    <artiste>Ludwig Van BEETHOVEN</artiste>
+    <artiste>John BARRY</artiste>
+    <artiste>D. PARTON</artiste>
+    <artiste>J. Philips</artiste>
+    <artiste>Enya</artiste>
+    <artiste>R. RYAN</artiste>
+    <artiste>Giorgo MORODER</artiste>
+    <artiste>G. YARED</artiste>
+    <artiste>Mike OLDFIELD</artiste>
+    <artiste>Bruce SPRINGSTEEN</artiste>
+    <artiste>G. FREY</artiste>
+    <artiste>J. TEMPCHIN</artiste>
+    <artiste>R. PRESLEY</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Synthétiseur 8 - Les plus grands thèmes</titre>
+    <annee>1992</annee>
+    <label>Arcade</label>
+    <artiste>Vangelis</artiste>
+    <artiste>John BARRY</artiste>
+    <artiste>Mike OLDFIELD</artiste>
+    <artiste>A. MORISOD</artiste>
+    <artiste>Jean-Michel JARRE</artiste>
+    <artiste>Kraftwerk</artiste>
+    <artiste>O.M.D.</artiste>
+    <artiste>Colombier</artiste>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>Badaron</artiste>
+    <artiste>Ed STARINK</artiste>
+    <artiste>Brian ENO</artiste>
+    <artiste>Ennio MORRICONE</artiste>
+    <artiste>De SENNECILE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The Tarantino connection</titre>
+    <annee>1996</annee>
+    <label>MCA Records</label>
+    <artiste>Quentin TARANTINO</artiste>
+    <artiste>Fred WISE</artiste>
+    <artiste>Milton LEEDS</artiste>
+    <artiste>SK RUSSEL</artiste>
+    <artiste>Nicholas ROUBANIS</artiste>
+    <artiste>David ALVIN</artiste>
+    <artiste>Vitter</artiste>
+    <artiste>Bouwens</artiste>
+    <artiste>Charlie SEXTON</artiste>
+    <artiste>Tonio K.</artiste>
+    <artiste>Neil DIAMOND</artiste>
+    <artiste>Leonard COHEN</artiste>
+    <artiste>Sharon ROBINSON</artiste>
+    <artiste>H. COCHRAN</artiste>
+    <artiste>J. EGAN</artiste>
+    <artiste>G. RAFFERTY</artiste>
+    <artiste>Chuck BERRY</artiste>
+    <artiste>James Van HEUSEN</artiste>
+    <artiste>Sammy CANN</artiste>
+    <artiste>Lou REED</artiste>
+    <artiste>Mark KNOPFLER</artiste>
+    <artiste>Raul MALO</artiste>
+    <artiste>Evan YORK</artiste>
+    <artiste>Combustible Edison</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Little Buddha</titre>
+    <annee>1993</annee>
+    <label>Ciby 2000 / Serprocor Anstalt</label>
+    <artiste>Ryuichi SAKAMOTO</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The last of the Mohicans</titre>
+    <annee>1992</annee>
+    <label>Morgan Creek Music Group</label>
+    <artiste>Trevor JONES</artiste>
+    <artiste>Randy EDELMAN</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Images - The best of Jean-Michel Jarre</titre>
+    <annee>1991</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Rendez-vous</titre>
+    <annee>1986</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Chronologie</titre>
+    <annee>1993</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Equinoxe</titre>
+    <annee>1978</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Oxygène 7-13</titre>
+    <annee>1997</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Oxygène</titre>
+    <annee>1976</annee>
+    <label>Disques Dreyfuss</label>
+    <artiste>Jean-Michel JARRE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Antartica</titre>
+    <annee>1983</annee>
+    <label>Polydor</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Spiral</titre>
+    <annee>1977</annee>
+    <label>RCA</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Albedo 0.39</titre>
+    <annee>1975</annee>
+    <label>RCA</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Direct</titre>
+    <annee>1988</annee>
+    <label>BMG Eurodisc</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Oceanic</titre>
+    <annee>1996</annee>
+    <label>Warner Music</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Voices</titre>
+    <annee>1995</annee>
+    <label>Warner Music</label>
+    <artiste>Vangelis</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>End of part One - Their greatest hits</titre>
+    <annee>1993</annee>
+    <label>Phonogram</label>
+    <artiste>Wet Wet Wet</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Les incontournables des années 70</titre>
+    <annee>1995</annee>
+    <label>Warner Music</label>
+    <artiste>Paul SIMON</artiste>
+    <artiste>The Doobie Brothers</artiste>
+    <artiste>Norman Greenbaum</artiste>
+    <artiste>Rickie Lee JONES</artiste>
+    <artiste>America</artiste>
+    <artiste>Fleetwood Mac</artiste>
+    <artiste>Foreigner</artiste>
+    <artiste>Chaka KHAN</artiste>
+    <artiste>Van HALEN</artiste>
+    <artiste>Alice COOPER</artiste>
+    <artiste>ZZ Top</artiste>
+    <artiste>The Faces</artiste>
+    <artiste>Linda RONSTADT</artiste>
+    <artiste>Carly SIMON</artiste>
+    <artiste>James TAYLOR</artiste>
+    <artiste>Neil YOUNG</artiste>
+    <artiste>Randy NEWMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Savoir aimer</titre>
+    <annee>1997</annee>
+    <label>Mercury France</label>
+    <artiste>Florent PAGNY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tendresses</titre>
+    <annee>1992</annee>
+    <label>Trema</label>
+    <artiste>Francis LALANNE</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Sultans of swing - The very best of Dire Straits</titre>
+    <annee>1998</annee>
+    <label>Mercury Records</label>
+    <artiste>Dire Straits</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Slow 94 - Tous les tubes love 1994</titre>
+    <annee>1994</annee>
+    <label>Virgin France</label>
+    <artiste>Youssou N'DOUR</artiste>
+    <artiste>Neneh CHERRY</artiste>
+    <artiste>Céline DION</artiste>
+    <artiste>Patricia KAAS</artiste>
+    <artiste>Laura PAUSINI</artiste>
+    <artiste>Ute LEMPER</artiste>
+    <artiste>Art MENGO</artiste>
+    <artiste>Philadelphia Project</artiste>
+    <artiste>Shazam</artiste>
+    <artiste>Haddaway</artiste>
+    <artiste>Meatloaf</artiste>
+    <artiste>Lenny KRAVITZ</artiste>
+    <artiste>Snowy White</artiste>
+    <artiste>Robin's</artiste>
+    <artiste>Jean-Louis AUBERT</artiste>
+    <artiste>Donna SUMMER</artiste>
+    <artiste>Axelle RED</artiste>
+    <artiste>Paul YOUNG</artiste>
+    <artiste>Scorpions</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Watching ourselves go by</titre>
+    <annee>1990</annee>
+    <label>Phonogram</label>
+    <artiste>Murray HEAD</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Les incontournables des années 80 - Vol. 1</titre>
+    <annee>1995</annee>
+    <label>Warner Music</label>
+    <artiste>Fleetwood Mac</artiste>
+    <artiste>Foreigner</artiste>
+    <artiste>ZZ Top</artiste>
+    <artiste>George BENSON</artiste>
+    <artiste>James INGRAM</artiste>
+    <artiste>Frankies Goes To Hollywood</artiste>
+    <artiste>Propaganda</artiste>
+    <artiste>Ph. D</artiste>
+    <artiste>Yes</artiste>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>Pretenders</artiste>
+    <artiste>B-52's</artiste>
+    <artiste>Christopher CROSS</artiste>
+    <artiste>Chris REA</artiste>
+    <artiste>Chris ISAAK</artiste>
+    <artiste>Donald FAGEN</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Carré blanc</titre>
+    <annee>1995</annee>
+    <label>MCA Music</label>
+    <artiste>Noa</artiste>
+    <artiste>Laura PAUSINI</artiste>
+    <artiste>Art MENGO</artiste>
+    <artiste>Portrait</artiste>
+    <artiste>Annie LENNOX</artiste>
+    <artiste>Take That</artiste>
+    <artiste>New Velvet Glove</artiste>
+    <artiste>Dee Dee BRIDGEWATER</artiste>
+    <artiste>Ray CHARLES</artiste>
+    <artiste>Duran Duran</artiste>
+    <artiste>Ten Sharp</artiste>
+    <artiste>Jimmy CLIFF</artiste>
+    <artiste>The Korgis</artiste>
+    <artiste>Ten CC</artiste>
+    <artiste>Louis ARMSTRONG</artiste>
+    <artiste>The Connells</artiste>
+    <artiste>Urge Overkill</artiste>
+    <artiste>Procol Harum</artiste>
+    <artiste>Luz CASAL</artiste>
+    <artiste>The Christians</artiste>
+    <artiste>Marvin GAYE</artiste>
+    <artiste>Billy PAUL</artiste>
+    <artiste>Joe COCKER</artiste>
+    <artiste>Crystal GAYLE</artiste>
+    <artiste>Bea Ba</artiste>
+    <artiste>Charlélie COUTURE</artiste>
+    <artiste>Gerry RAFFERTY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>When the sour turns so sweet</titre>
+    <annee>1969</annee>
+    <label>Jonjo Music</label>
+    <artiste>Genesis</artiste>
+    <artiste>Peter GABRIEL</artiste>
+    <artiste>Tony BANKS</artiste>
+    <artiste>Mike RUTHERFORD</artiste>
+    <artiste>Anthony PHILLIPS</artiste>
+    <artiste>Chris STEWART</artiste>
+    <artiste>John SILVER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Calling all stations</titre>
+    <annee>1997</annee>
+    <label>Virgin Records</label>
+    <artiste>Genesis</artiste>
+    <artiste>Tony BANKS</artiste>
+    <artiste>Mike RUTHERFORD</artiste>
+    <artiste>Ray WILSON</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Live - The way we walk - Vol.1 : the shorts</titre>
+    <annee>1992</annee>
+    <label>Virgin Records</label>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>Genesis</artiste>
+    <artiste>Tony BANKS</artiste>
+    <artiste>Mike RUTHERFORD</artiste>
+    <artiste>Daryl STUERMER</artiste>
+    <artiste>Chester THOMPSON</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Serious hits... Live !</titre>
+    <annee>1990</annee>
+    <label>WEA International</label>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>No jacket required</titre>
+    <annee>1985</annee>
+    <label>WEA International</label>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Hello, I must be going</titre>
+    <annee>1982</annee>
+    <label>WEA International</label>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Guilty</titre>
+    <annee>1980</annee>
+    <label>CBS</label>
+    <artiste>Barbara STREISAND</artiste>
+    <artiste>Barry GIBB</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Memories</titre>
+    <annee>1981</annee>
+    <label>CBS</label>
+    <artiste>Neil DIAMOND</artiste>
+    <artiste>Donna SUMMER</artiste>
+    <artiste>Barbara STREISAND</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Higher ground</titre>
+    <annee>1997</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Céline DION</artiste>
+    <artiste>Barbara STREISAND</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Emotion</titre>
+    <annee>1984</annee>
+    <label>CBS</label>
+    <artiste>Barbara STREISAND</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Greatest hits... and more</titre>
+    <annee>1989</annee>
+    <label>CBS Records</label>
+    <artiste>Barbara STREISAND</artiste>
+    <artiste>Barry GIBB</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Les incontournables des années 80 - Vol. 2</titre>
+    <annee>1995</annee>
+    <label>Warner Music</label>
+    <artiste>Paul SIMON</artiste>
+    <artiste>Donna SUMMER</artiste>
+    <artiste>Frankies Goes To Hollywood</artiste>
+    <artiste>Propaganda</artiste>
+    <artiste>Pretenders</artiste>
+    <artiste>Nik KERSHAW</artiste>
+    <artiste>Cock ROBIN</artiste>
+    <artiste>Mike and the Machanics</artiste>
+    <artiste>Alphaville</artiste>
+    <artiste>The Cars</artiste>
+    <artiste>Cyndi LAUPER</artiste>
+    <artiste>Matt BIANCO</artiste>
+    <artiste>Rah BAND</artiste>
+    <artiste>Sheila E.</artiste>
+    <artiste>Michael Mac DONALD</artiste>
+    <artiste>Michael Franks</artiste>
+    <artiste>Tanita TIKARAM</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Flûte de pan</titre>
+    <annee>1999</annee>
+    <label>Universal Music</label>
+    <artiste>Vangelis</artiste>
+    <artiste>Bruce SPRINGSTEEN</artiste>
+    <artiste>Ennio MORRICONE</artiste>
+    <artiste>Elton JOHN</artiste>
+    <artiste>Bernie TAUPIN</artiste>
+    <artiste>George MICHAEL</artiste>
+    <artiste>Maurice GIBB</artiste>
+    <artiste>Lionel RICHIE</artiste>
+    <artiste>Bryan ADAMS</artiste>
+    <artiste>Dolly PARTON</artiste>
+    <artiste>Saint John</artiste>
+    <artiste>Andrew RIDGLEY</artiste>
+    <artiste>Morris ALBERT</artiste>
+    <artiste>Pete HAM</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Dreamland</titre>
+    <annee>1996</annee>
+    <label>DBX Records</label>
+    <artiste>Robert MILES</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Il était une fois... les plus belles fois</titre>
+    <annee>1992</annee>
+    <label>EMI France</label>
+    <artiste>Richard DEWITTE</artiste>
+    <artiste>Serge KOOLENN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Turn of the tide</titre>
+    <annee>1981</annee>
+    <label>Polydor</label>
+    <artiste>Barclay James Harvest</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Past to present</titre>
+    <annee>1990</annee>
+    <label>CBS Records</label>
+    <artiste>Toto</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>First harvest</titre>
+    <annee>1992</annee>
+    <label>WEA Music</label>
+    <artiste>Alphaville</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Ride like the wind - The best of Christopher CROSS</titre>
+    <annee>1992</annee>
+    <label>Warner Music</label>
+    <artiste>Christopher CROSS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>So far so good</titre>
+    <annee>1993</annee>
+    <label>A&amp;M Records</label>
+    <artiste>Bryan ADAMS</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Best of Barclay James Harvest</titre>
+    <annee>1991</annee>
+    <label>Polygram</label>
+    <artiste>Barclay James Harvest</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Inside information</titre>
+    <annee>1987</annee>
+    <label>Atlantic Recording</label>
+    <artiste>Foreigner</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Agent provocateur</titre>
+    <annee>1984</annee>
+    <label>Atlantic Recording</label>
+    <artiste>Foreigner</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>101</titre>
+    <annee>1989</annee>
+    <label>Mute Records</label>
+    <artiste>Depeche Mode</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Street fighting years</titre>
+    <annee>1989</annee>
+    <label>Virgin Records</label>
+    <artiste>Simple Minds</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Tear roll down (Greatest hits 82-92)</titre>
+    <annee>1992</annee>
+    <label>Phonogram</label>
+    <artiste>Tears for fears</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The single 1969-1973</titre>
+    <annee>1972</annee>
+    <label>A&amp;M Records</label>
+    <artiste>Carpenters</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Gold - Greatest hits</titre>
+    <annee>1992</annee>
+    <label>Polar Music</label>
+    <artiste>ABBA</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Best of Imagination</titre>
+    <annee>1995</annee>
+    <label>R&amp;B Division</label>
+    <artiste>Imagination</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The soul cages</titre>
+    <annee>1991</annee>
+    <label>A&amp;M Records</label>
+    <artiste>Sting</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Dance collection</titre>
+    <annee>1990</annee>
+    <label>Polygram Records</label>
+    <artiste>Kool &amp; the Gang</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Gold - 20 super hits</titre>
+    <annee>1992</annee>
+    <label>Far Music-Production</label>
+    <artiste>Boney M.</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Histoires</titre>
+    <annee>1998</annee>
+    <label>Big Brother Company</label>
+    <artiste>Bernard LAVILLIERS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Step by step</titre>
+    <annee>1990</annee>
+    <label>CBS Records</label>
+    <artiste>New kids on the Block</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Made in England - Les années New Wave</titre>
+    <annee>1995</annee>
+    <label>MCA Music Entertainment</label>
+    <artiste>Frankies Goes To Hollywood</artiste>
+    <artiste>Depeche Mode</artiste>
+    <artiste>Captain Sensible</artiste>
+    <artiste>The Clash</artiste>
+    <artiste>Madness</artiste>
+    <artiste>Yazoo</artiste>
+    <artiste>XTC</artiste>
+    <artiste>Ultravox</artiste>
+    <artiste>Spandau Ballet</artiste>
+    <artiste>Lotus Eaters</artiste>
+    <artiste>Ice House</artiste>
+    <artiste>Scritti Politti</artiste>
+    <artiste>Eurythmics</artiste>
+    <artiste>Visage</artiste>
+    <artiste>Johnny Hates Jazz</artiste>
+    <artiste>The Stranglers</artiste>
+    <artiste>Maisonettes</artiste>
+    <artiste>Toto Coelo</artiste>
+    <artiste>Style Council</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Une présence</titre>
+    <annee>1989</annee>
+    <label>Phonogram</label>
+    <artiste>François FELDMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Starmania</titre>
+    <annee>1984</annee>
+    <label>WEA Music</label>
+    <artiste>Michel BERGER</artiste>
+    <artiste>Luc PLAMONDON</artiste>
+    <artiste>Daniel BALAVOINE</artiste>
+    <artiste>Fabienne THIBEAULT</artiste>
+    <artiste>France GALL</artiste>
+    <artiste>Claude DUBOIS</artiste>
+    <artiste>Nanette WORKMAN</artiste>
+    <artiste>Diane DUFRESNE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Savuka</titre>
+    <annee>1989</annee>
+    <label>EMI Records</label>
+    <artiste>Johnny CLEGG</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Grease</titre>
+    <label>Music Star</label>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The best of U2 1980-1990</titre>
+    <annee>1998</annee>
+    <label>Polygram</label>
+    <artiste>U2</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>New gold dream (81-82-83-84)</titre>
+    <annee>1983</annee>
+    <label>Virgin Records</label>
+    <artiste>Simple Minds</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Philadelphia (BOF)</titre>
+    <annee>1993</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Bruce SPRINGSTEEN</artiste>
+    <artiste>Neil YOUNG</artiste>
+    <artiste>Peter GABRIEL</artiste>
+    <artiste>Sade</artiste>
+    <artiste>Spin Doctors</artiste>
+    <artiste>Indigo Girls</artiste>
+    <artiste>RAM</artiste>
+    <artiste>Howard Shore</artiste>
+    <artiste>Pauletta WASHINGTON</artiste>
+    <artiste>Maria CALLAS</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>La compil' en or</titre>
+    <annee>1990</annee>
+    <label>WEA Music</label>
+    <artiste>Gold</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Ana José Nacho</titre>
+    <annee>1998</annee>
+    <label>BMG Music</label>
+    <artiste>Mecano</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Top Gun (BOF)</titre>
+    <annee>1986</annee>
+    <label>CBS</label>
+    <artiste>Kenny Loggins</artiste>
+    <artiste>Loverboy</artiste>
+    <artiste>Cheap Trick</artiste>
+    <artiste>Berlin</artiste>
+    <artiste>Harold Faltermeyer</artiste>
+    <artiste>Steve STEVENS</artiste>
+    <artiste>Miami Sound Machine</artiste>
+    <artiste>Teena Marie</artiste>
+    <artiste>Marietta</artiste>
+    <artiste>Larry Greene</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Truly - The love songs</titre>
+    <annee>1997</annee>
+    <label>Motown Records</label>
+    <artiste>Lionel RICHIE</artiste>
+    <artiste>The Commodores</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Cock Robin</titre>
+    <annee>1990</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Cock ROBIN</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The very best of Billy Paul</titre>
+    <annee>1995</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Billy PAUL</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The very best of Supertramp</titre>
+    <annee>1990</annee>
+    <label>A&amp;M Records</label>
+    <artiste>Supertramp</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>If you were there - The best of Wham</titre>
+    <annee>1997</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Wham!</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Les plus belles chansons de Michel Berger</titre>
+    <annee>1981</annee>
+    <label>WEA Music</label>
+    <artiste>Michel BERGER</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Greatest hits 1985-1995</titre>
+    <annee>1995</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Michael BOLTON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Era</titre>
+    <annee>1996</annee>
+    <label>Tranman Entertainment</label>
+    <artiste>Era</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Era 2</titre>
+    <annee>2000</annee>
+    <label>Tranman Entertainment</label>
+    <artiste>Era</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Dance into the light</titre>
+    <annee>1996</annee>
+    <label>Philip Collins</label>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Piano - Les plus belles mélodies</titre>
+    <annee>1999</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Michael NYMAN</artiste>
+    <artiste>Ludwig Van BEETHOVEN</artiste>
+    <artiste>Johann Sebastian BACH</artiste>
+    <artiste>Frédéric CHOPIN</artiste>
+    <artiste>Sergey RACHMANINOV</artiste>
+    <artiste>Robert SCHUMANN</artiste>
+    <artiste>Claude DEBUSSY</artiste>
+    <artiste>Johannes BRAHMS</artiste>
+    <artiste>Georges BIZET</artiste>
+    <artiste>Franz LISZT</artiste>
+    <artiste>Cammile SAINT-SAENS</artiste>
+    <artiste>Enrique GRANADOS</artiste>
+    <artiste>Isaac ALBENIZ</artiste>
+    <artiste>Gabriel FAURE</artiste>
+    <artiste>Erik SATIE</artiste>
+    <artiste>Piotr Ilyitch TCHAIKOVSKY</artiste>
+    <artiste>Maurice RAVEL</artiste>
+    <artiste>Edward ELGAR</artiste>
+    <artiste>Ignato CERVANTES</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Culture Dance - Vol. 8</titre>
+    <annee>1995</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Frankies Goes To Hollywood</artiste>
+    <artiste>Peter GABRIEL</artiste>
+    <artiste>Alphaville</artiste>
+    <artiste>Depeche Mode</artiste>
+    <artiste>Tears for fears</artiste>
+    <artiste>The Clash</artiste>
+    <artiste>Ultravox</artiste>
+    <artiste>Eurythmics</artiste>
+    <artiste>Wham!</artiste>
+    <artiste>Bronski Beat</artiste>
+    <artiste>Bananarama</artiste>
+    <artiste>Simply Red</artiste>
+    <artiste>Trio</artiste>
+    <artiste>Dead or Alive</artiste>
+    <artiste>Carmel</artiste>
+    <artiste>Fake</artiste>
+    <artiste>Secret Service</artiste>
+    <artiste>Art of Noise</artiste>
+    <artiste>Duane Eddy</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tour d'ivoire</titre>
+    <annee>1990</annee>
+    <label>MN Production</label>
+    <artiste>Phil BARNEY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Pulse</titre>
+    <annee>1995</annee>
+    <label>Pink Floyd Music</label>
+    <artiste>Pink Floyd</artiste>
+    <artiste>Marc BRICKMAN</artiste>
+    <artiste>Mark FISHER</artiste>
+    <artiste>Robbie WILLIAMS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Sliver</titre>
+    <annee>1993</annee>
+    <label>Paramount Pictures</label>
+    <artiste>Neneh CHERRY</artiste>
+    <artiste>UB40</artiste>
+    <artiste>Enigma</artiste>
+    <artiste>Fluke</artiste>
+    <artiste>Massive Attack</artiste>
+    <artiste>Lords of Acid</artiste>
+    <artiste>Shaggy</artiste>
+    <artiste>Aftershock</artiste>
+    <artiste>Heaven 17</artiste>
+    <artiste>The Young Gods</artiste>
+    <artiste>Verve</artiste>
+    <artiste>Bigod 20</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Let's talk about love</titre>
+    <annee>1997</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Céline DION</artiste>
+    <artiste>Barbara STREISAND</artiste>
+    <artiste>Luciano PAVAROTTI</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>D'eux</titre>
+    <annee>1995</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Céline DION</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>S'il suffisait d'aimer</titre>
+    <annee>1998</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Céline DION</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>All the way... A decade of song</titre>
+    <annee>1999</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Céline DION</artiste>
+    <artiste>R. KELLY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Quelque chose de bizarre</titre>
+    <annee>1981</annee>
+    <label>CBS Disques</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Positif</titre>
+    <annee>1984</annee>
+    <label>CBS Disques</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Entre gris clair et gris foncé</titre>
+    <annee>1987</annee>
+    <label>CBS Disques</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Sur scène</titre>
+    <annee>1992</annee>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Carol FREDERICKS</artiste>
+    <artiste>Michael JONES</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>En passant</titre>
+    <annee>1997</annee>
+    <label>JRG</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Tournée 98 - En passant</titre>
+    <annee>1999</annee>
+    <label>JRG</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Les chemins de traverse</titre>
+    <annee>1979</annee>
+    <label>CBS Disques</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Les murs de poussière</titre>
+    <annee>1977</annee>
+    <label>CBS Disques</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Photos de voyage</titre>
+    <annee>1985</annee>
+    <label>Chandelle Productions</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Quelqu'un de l'intérieur</titre>
+    <annee>1987</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>77/87</titre>
+    <annee>1987</annee>
+    <label>CBS Disques</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Sarbacane</titre>
+    <annee>1989</annee>
+    <label>Chandelle Productions</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Un samedi soir sur la terre</titre>
+    <annee>1994</annee>
+    <label>Chandelle Productions</label>
+    <artiste>Francis CABREL</artiste>
+    <artiste>Gipsy Kings</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Hors-saison</titre>
+    <annee>1999</annee>
+    <label>Chandelle Productions</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Ammonia Avenue</titre>
+    <annee>1984</annee>
+    <label>Arista Records</label>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>The Alan Parsons Project</artiste>
+    <artiste>Eric WOOLFSON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Eve</titre>
+    <annee>1979</annee>
+    <label>Arista Records</label>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>The Alan Parsons Project</artiste>
+    <artiste>Eric WOOLFSON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Pyramid</titre>
+    <annee>1979</annee>
+    <label>Arista Records</label>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>The Alan Parsons Project</artiste>
+    <artiste>Eric WOOLFSON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>I Robot</titre>
+    <annee>1984</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CDLive">
+    <titre>Live</titre>
+    <annee>1994</annee>
+    <label>Arcade</label>
+    <artiste>Alan PARSONS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>On air</titre>
+    <annee>1996</annee>
+    <label>CNR Music</label>
+    <artiste>Alan PARSONS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Gaudi</titre>
+    <annee>1987</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Antology</titre>
+    <annee>1991</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Vulture culture</titre>
+    <annee>1984</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The instrumental works</titre>
+    <annee>1988</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tales of mystery and imagination</titre>
+    <annee>1976</annee>
+    <label>Polygram Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Eye in the sky</titre>
+    <annee>1983</annee>
+    <label>Arista Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Turn of a friendly card</titre>
+    <annee>1984</annee>
+    <label>BMG Records</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Stereotomy</titre>
+    <annee>1984</annee>
+    <label>Woolfsongs</label>
+    <artiste>The Alan Parsons Project</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Harmonia - Le chant des rêves</titre>
+    <annee>1998</annee>
+    <label>Virgin</label>
+    <artiste>Eric SERRA</artiste>
+    <artiste>Noa</artiste>
+    <artiste>Michael NYMAN</artiste>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Kitaro</artiste>
+    <artiste>Vangelis</artiste>
+    <artiste>Mike OLDFIELD</artiste>
+    <artiste>Jean-Michel JARRE</artiste>
+    <artiste>Brian ENO</artiste>
+    <artiste>Ennio MORRICONE</artiste>
+    <artiste>Era</artiste>
+    <artiste>Enigma</artiste>
+    <artiste>Karl JENKIS</artiste>
+    <artiste>Deep Forest</artiste>
+    <artiste>Yanni</artiste>
+    <artiste>Dead Can Dance</artiste>
+    <artiste>Indiens Sacred Spirit</artiste>
+    <artiste>I Muvrini</artiste>
+    <artiste>Madredeus</artiste>
+    <artiste>Microcosmos</artiste>
+    <artiste>Serge PERATHONER</artiste>
+    <artiste>Andreas VOLLENWEIDER</artiste>
+    <artiste>Geoffrey ORYEMA</artiste>
+    <artiste>Les nouvelles polyphonies corses</artiste>
+    <artiste>Zbigniew PREISNER</artiste>
+    <artiste>Wim MERTENS</artiste>
+    <artiste>Pat METHENY</artiste>
+    <artiste>La nuit Obscure</artiste>
+    <artiste>Lama GYOURME</artiste>
+    <artiste>Jean-Philippe RYKIEL</artiste>
+    <artiste>Goran BREGOVIC</artiste>
+    <artiste>Diego MODENA</artiste>
+    <artiste>Jean-Philippe AUDIN</artiste>
+    <artiste>Harold BUD</artiste>
+    <artiste>Frederick ROUSSEAU</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>The complete</titre>
+    <annee>1985</annee>
+    <label>Virgin Records</label>
+    <artiste>Mike OLDFIELD</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Boulevard des slows - Vol. 2</titre>
+    <annee>1990</annee>
+    <label>CBS Disques</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Eagles</artiste>
+    <artiste>Enya</artiste>
+    <artiste>Foreigner</artiste>
+    <artiste>Patricia KAAS</artiste>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>The Korgis</artiste>
+    <artiste>George MICHAEL</artiste>
+    <artiste>Spandau Ballet</artiste>
+    <artiste>France GALL</artiste>
+    <artiste>Sade</artiste>
+    <artiste>Alain CHAMFORT</artiste>
+    <artiste>Jean-Jacques LAFON</artiste>
+    <artiste>Mark BOYCE</artiste>
+    <artiste>Michel POLNAREFF</artiste>
+    <artiste>Candy FLIP</artiste>
+    <artiste>Kylie MINOGUE</artiste>
+    <artiste>Jason DONOVAN</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Boulevard des slows - Vol. 1</titre>
+    <annee>1990</annee>
+    <label>CBS Disques</label>
+    <artiste>Foreigner</artiste>
+    <artiste>Linda RONSTADT</artiste>
+    <artiste>Art MENGO</artiste>
+    <artiste>Paul YOUNG</artiste>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>Marvin GAYE</artiste>
+    <artiste>George MICHAEL</artiste>
+    <artiste>France GALL</artiste>
+    <artiste>Sade</artiste>
+    <artiste>Simply Red</artiste>
+    <artiste>Francis CABREL</artiste>
+    <artiste>Jevetta STEELE</artiste>
+    <artiste>Aaron NEVILLE</artiste>
+    <artiste>Gloria ESTEFAN</artiste>
+    <artiste>Bangles</artiste>
+    <artiste>Five Letters</artiste>
+    <artiste>Isabelle FABIEN</artiste>
+    <artiste>Julien CLERC</artiste>
+    <artiste>Véronique SANSON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Portrait</titre>
+    <annee>1985</annee>
+    <label>Tabata Music</label>
+    <artiste>Philippe LAVIL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Music box</titre>
+    <annee>1993</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Mariah CAREY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Secrets</titre>
+    <annee>1996</annee>
+    <label>LaFace Records</label>
+    <artiste>Toni BRAXTON</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>10 ans déjà</titre>
+    <annee>1987</annee>
+    <label>Carrere</label>
+    <artiste>Claude FRANCOIS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Double jeu</titre>
+    <annee>1992</annee>
+    <label>CMBM</label>
+    <artiste>Michel BERGER</artiste>
+    <artiste>France GALL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Cœur de verre</titre>
+    <annee>1996</annee>
+    <label>Auréa Music</label>
+    <artiste>Hélène SEGARA</artiste>
+    <artiste>Andrea BOCELLI</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Babacar</titre>
+    <annee>1987</annee>
+    <label>Apache</label>
+    <artiste>Michel BERGER</artiste>
+    <artiste>France GALL</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Boulevard des slows - Vol. 3</titre>
+    <annee>1991</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+    <artiste>Carol FREDERICKS</artiste>
+    <artiste>Michael JONES</artiste>
+    <artiste>A-ha</artiste>
+    <artiste>Patricia KAAS</artiste>
+    <artiste>Scorpions</artiste>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>Cyndi LAUPER</artiste>
+    <artiste>Elton JOHN</artiste>
+    <artiste>George MICHAEL</artiste>
+    <artiste>France GALL</artiste>
+    <artiste>Sade</artiste>
+    <artiste>Michel POLNAREFF</artiste>
+    <artiste>Queen</artiste>
+    <artiste>Umberto TOZZI</artiste>
+    <artiste>Tina TURNER</artiste>
+    <artiste>Beverley CRAVEN</artiste>
+    <artiste>Michael JACKSON</artiste>
+    <artiste>Diane TELL</artiste>
+    <artiste>Kenny ROGERS</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>La nuit la plus love - Vol. 2</titre>
+    <annee>1994</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Kansas</artiste>
+    <artiste>A-ha</artiste>
+    <artiste>Paul YOUNG</artiste>
+    <artiste>Billy PAUL</artiste>
+    <artiste>Cyndi LAUPER</artiste>
+    <artiste>George MICHAEL</artiste>
+    <artiste>Sade</artiste>
+    <artiste>The Alan Parsons Project</artiste>
+    <artiste>Jevetta STEELE</artiste>
+    <artiste>Gloria ESTEFAN</artiste>
+    <artiste>Tasmin ARCHER</artiste>
+    <artiste>Lloyd COLE</artiste>
+    <artiste>The Commotions</artiste>
+    <artiste>Mr MISTER</artiste>
+    <artiste>Des'ree</artiste>
+    <artiste>Righteous Brothers</artiste>
+    <artiste>Bryan FERRY</artiste>
+  </disque>
+  <disque support="CDCompil">
+    <titre>Nescafé</titre>
+    <annee>2000</annee>
+    <label>Paul + Fisher Productions</label>
+    <artiste>Michel FUGAIN</artiste>
+    <artiste>Jimmy CLIFF</artiste>
+    <artiste>Richard DEWITTE</artiste>
+    <artiste>S. Kooienn</artiste>
+    <artiste>R. Self</artiste>
+    <artiste>D. Allbritten</artiste>
+    <artiste>P. DELANOE</artiste>
+    <artiste>A. Phillips</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>A hot night in Paris</titre>
+    <annee>1999</annee>
+    <artiste>Phil COLLINS</artiste>
+    <artiste>Phil Collins Big Band</artiste>
+  </disque>
+  <disque support="DVD">
+    <titre>The wall</titre>
+    <annee>1990</annee>
+    <artiste>Pink Floyd</artiste>
+  </disque>
+  <disque support="DVD">
+    <titre>Tournée 98 - En passant</titre>
+    <annee>1999</annee>
+    <label>JRG</label>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="DVD">
+    <titre>Au cœur du stade</titre>
+    <annee>1999</annee>
+    <artiste>Céline DION</artiste>
+  </disque>
+  <disque support="DVD">
+    <titre>A supernatural evening with Carlos Santana</titre>
+    <annee>1999</annee>
+    <artiste>Carlos SANTANA</artiste>
+  </disque>
+  <disque support="K7Vidéo">
+    <titre>Live au MCM Café (Fête de la musique 99)</titre>
+    <annee>1999</annee>
+    <label>Enregistré sur MCM</label>
+    <artiste>Eagle-Eye CHERRY</artiste>
+  </disque>
+  <disque support="K7Vidéo">
+    <titre>Jimi Hendrix - Documentaire</titre>
+    <annee>1999</annee>
+    <label>Enregistré sur Canal Jimmy</label>
+    <artiste>Jimi HENDRIX</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Mars Polaris</titre>
+    <annee>1999</annee>
+    <label>TaDream</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Near Dark</titre>
+    <annee>1987</annee>
+    <label>Silva Screen Film</label>
+    <artiste>Tangerine Dream</artiste>
+    <artiste>Edgar FROESE</artiste>
+    <artiste>Chris FRANKE</artiste>
+    <artiste>Paul HASLINGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The old traditional</titre>
+    <annee>1989</annee>
+    <label>Baur Music Production</label>
+    <artiste>Mr. Acker Bilk</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Europe - 1982-1992</titre>
+    <annee>1993</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Europe</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Mogador 94</titre>
+    <annee>1994</annee>
+    <label>GCP</label>
+    <artiste>Michel BERGER</artiste>
+    <artiste>Luc PLAMONDON</artiste>
+    <artiste>Starmania</artiste>
+    <artiste>Judith BERARD</artiste>
+    <artiste>Luce DUFAULT</artiste>
+    <artiste>Patsy GALLANT</artiste>
+    <artiste>Michel PASCAL</artiste>
+    <artiste>Bruno PELLETIER</artiste>
+    <artiste>Jasmine ROY</artiste>
+    <artiste>Frank SHERBOURNE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Dance Attitude 14</titre>
+    <annee>1997</annee>
+    <label>Polygram Kiosks</label>
+    <artiste>Boyzone</artiste>
+    <artiste>East 17</artiste>
+    <artiste>Gabrielle</artiste>
+    <artiste>Alliage</artiste>
+    <artiste>Faithless</artiste>
+    <artiste>2 Be 3</artiste>
+    <artiste>Worlds Apart</artiste>
+    <artiste>Nomansland</artiste>
+    <artiste>Yta Farrow</artiste>
+    <artiste>Boris DLUGOSH</artiste>
+    <artiste>DJ LB</artiste>
+    <artiste>Space Master</artiste>
+    <artiste>Hobby One</artiste>
+    <artiste>Visions</artiste>
+    <artiste>Kristine W.</artiste>
+    <artiste>C-Mouse</artiste>
+    <artiste>Ricochet</artiste>
+    <artiste>Stan 101</artiste>
+    <artiste>Sweet Box</artiste>
+    <artiste>Jon</artiste>
+    <artiste>Let Motiv</artiste>
+    <artiste>So What !</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Synthétiseur - Les plus grands thèmes</titre>
+    <annee>1989</annee>
+    <label>Arcade</label>
+    <artiste>Vangelis</artiste>
+    <artiste>Giorgo MORODER</artiste>
+    <artiste>Jean-Michel JARRE</artiste>
+    <artiste>Kraftwerk</artiste>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>Art of Noise</artiste>
+    <artiste>Eric WOOLFSON</artiste>
+    <artiste>H. FALTERMEYER</artiste>
+    <artiste>McClusky</artiste>
+    <artiste>Humphries</artiste>
+    <artiste>J. Hammer</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Super Dance Mix 95 - Vol. 2</titre>
+    <annee>1995</annee>
+    <label>Arcade</label>
+  </disque>
+  <disque support="CD">
+    <titre>Plus de dance - Vol. 4</titre>
+    <annee>1996</annee>
+    <label>Sony Music Entertainment</label>
+  </disque>
+  <disque support="CD">
+    <titre>Legend - The best of Bob MARLEY</titre>
+    <annee>1984</annee>
+    <label>Island Records</label>
+    <artiste>Bob MARLEY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Synthétiseur 2 - Les plus grands thèmes</titre>
+    <annee>1989</annee>
+    <label>Arcade</label>
+    <artiste>Eric SERRA</artiste>
+    <artiste>Vangelis</artiste>
+    <artiste>Giorgo MORODER</artiste>
+    <artiste>Jean-Michel JARRE</artiste>
+    <artiste>Alan PARSONS</artiste>
+    <artiste>Ed STARINK</artiste>
+    <artiste>Eric WOOLFSON</artiste>
+    <artiste>Serge PERATHONER</artiste>
+    <artiste>Ecama</artiste>
+    <artiste>F. Cuitad</artiste>
+    <artiste>Y. Hayat</artiste>
+    <artiste>Schult</artiste>
+    <artiste>Bartos</artiste>
+    <artiste>Francis LAI</artiste>
+    <artiste>Ravel</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Nuit et Brouillard (Vol. 1)</titre>
+    <annee>1997</annee>
+    <label>Polygram Distribution</label>
+    <artiste>Jean FERRAT</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Best of Jimmy Cliff</titre>
+    <annee>1996</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Jimmy CLIFF</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Best of Bee Gees</titre>
+    <annee>1997</annee>
+    <label>Polydor</label>
+    <artiste>Bee Gees</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Carnoux - Le souvenir</titre>
+    <annee>1993</annee>
+    <label>Interphon</label>
+  </disque>
+  <disque support="CD">
+    <titre>Carnets de scène</titre>
+    <annee>1991</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Patricia KAAS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Mega Disco</titre>
+    <annee>1995</annee>
+    <label>Arcade</label>
+  </disque>
+  <disque support="CD">
+    <titre>23 succès de Joe Dassin</titre>
+    <annee>1989</annee>
+    <label>CBS Disques</label>
+    <artiste>Joe DASSIN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Collection Or - Gérard Lenorman</titre>
+    <annee>1992</annee>
+    <label>Sony Music Entertainment</label>
+    <artiste>Gérard LENORMAN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Prix d'ami - Chanteurs français</titre>
+    <annee>1994</annee>
+    <label>Sony Music Entertainement</label>
+    <artiste>Michel FUGAIN</artiste>
+    <artiste>Joe DASSIN</artiste>
+    <artiste>Gérard LENORMAN</artiste>
+    <artiste>Yves DUTEIL</artiste>
+    <artiste>Richard COCCIANTE</artiste>
+    <artiste>Herbert LEONARD</artiste>
+    <artiste>Thierry HAZARD</artiste>
+    <artiste>Louis CHEDID</artiste>
+    <artiste>Yves MONTAND</artiste>
+    <artiste>David KOVEN</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Planète Zouk</titre>
+    <annee>1990</annee>
+    <label>Déclic</label>
+    <artiste>Philippe LAVIL</artiste>
+    <artiste>Zouk Machine</artiste>
+    <artiste>Sakiyo</artiste>
+    <artiste>Francky VINCENT</artiste>
+    <artiste>Tanya SAINT-VAL</artiste>
+    <artiste>Malavoi</artiste>
+    <artiste>Kassav</artiste>
+    <artiste>Ralph THAMAR</artiste>
+    <artiste>Ronald RUBINEL</artiste>
+    <artiste>Dédé SAINT-PRIX</artiste>
+    <artiste>Eric VIRGAL</artiste>
+    <artiste>Dominique BERNIER</artiste>
+    <artiste>Jocelyne BEROARD</artiste>
+    <artiste>Experience 7</artiste>
+    <artiste>Ljoëlle URSULL</artiste>
+    <artiste>Marijosé ALIE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Santana's Greatest Hits</titre>
+    <annee>1974</annee>
+    <label>CBS</label>
+    <artiste>Carlos SANTANA</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Les années tubes 90</titre>
+    <annee>1997</annee>
+    <label>Polygram Distribution</label>
+    <artiste>Corona</artiste>
+    <artiste>Jean-Michel JARRE</artiste>
+    <artiste>Florent PAGNY</artiste>
+    <artiste>Axelle RED</artiste>
+    <artiste>Scorpions</artiste>
+    <artiste>Take That</artiste>
+    <artiste>Jimmy CLIFF</artiste>
+    <artiste>The Connells</artiste>
+    <artiste>The Christians</artiste>
+    <artiste>Enigma</artiste>
+    <artiste>Indiens Sacred Spirit</artiste>
+    <artiste>Diego MODENA</artiste>
+    <artiste>Jean-Philippe AUDIN</artiste>
+    <artiste>Tina TURNER</artiste>
+    <artiste>Gabrielle</artiste>
+    <artiste>Zouk Machine</artiste>
+    <artiste>Khaled</artiste>
+    <artiste>Regg'Lyss</artiste>
+    <artiste>John Scatman</artiste>
+    <artiste>Elmer Food Beat</artiste>
+    <artiste>Axel BAUER</artiste>
+    <artiste>Luc De LAROCHELLIERE</artiste>
+    <artiste>Niagara</artiste>
+    <artiste>Billy Ze Kick</artiste>
+    <artiste>L'Affaire Louis' Trio</artiste>
+    <artiste>Zazie</artiste>
+    <artiste>Cher</artiste>
+    <artiste>Pet Shop Boys</artiste>
+    <artiste>Ace of Base</artiste>
+    <artiste>Johnny HALLYDAY</artiste>
+    <artiste>Eddy MITCHELL</artiste>
+    <artiste>Les Charts</artiste>
+    <artiste>Benny B</artiste>
+    <artiste>Latino Party</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Maxi Dance 6</titre>
+    <annee>1997</annee>
+    <label>PPS - Kiosks</label>
+    <artiste>Whigfield</artiste>
+    <artiste>Robert MILES</artiste>
+    <artiste>Faithless</artiste>
+    <artiste>2 Be 3</artiste>
+    <artiste>Sash !</artiste>
+    <artiste>Newton</artiste>
+    <artiste>Bell-Bar</artiste>
+    <artiste>The Numerics</artiste>
+    <artiste>Moondust</artiste>
+    <artiste>Dance Reaction</artiste>
+    <artiste>Party People</artiste>
+    <artiste>Disco Rouge</artiste>
+    <artiste>Alexia</artiste>
+    <artiste>Real Joy</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Dance Attitude 12</titre>
+    <annee>1997</annee>
+    <label>Polygram Kiosks</label>
+  </disque>
+  <disque support="CD">
+    <titre>Méga Soleil</titre>
+    <annee>1997</annee>
+    <label>Arcade</label>
+    <artiste>(Artistes non saisis)</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>100 titres Slows</titre>
+    <annee>1995</annee>
+    <label>Sony Music entertainment</label>
+    <artiste>(Artistes non saisis)</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>A nous les hits</titre>
+    <annee>1989</annee>
+    <label>Carrere</label>
+    <artiste>Dee Dee BRIDGEWATER</artiste>
+    <artiste>Ray CHARLES</artiste>
+    <artiste>Tanita TIKARAM</artiste>
+    <artiste>Aaron NEVILLE</artiste>
+    <artiste>Jive Bunny</artiste>
+    <artiste>The Mastermixers</artiste>
+    <artiste>Black Box</artiste>
+    <artiste>Roxette</artiste>
+    <artiste>Eric and the Good Feeling</artiste>
+    <artiste>Vaitiare</artiste>
+    <artiste>20 Years After</artiste>
+    <artiste>Milli Vanilli</artiste>
+    <artiste>Melody</artiste>
+    <artiste>Début de Soirée</artiste>
+    <artiste>Avalanche</artiste>
+    <artiste>Soldat Louis</artiste>
+    <artiste>Gerio SCHUBACH</artiste>
+    <artiste>Sinitta</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Ca fait rire les oiseaux</titre>
+    <annee>1986</annee>
+    <label>Zagora</label>
+    <artiste>La Compagnie Créole</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Worldbeat</titre>
+    <annee>1989</annee>
+    <label>BMG</label>
+    <artiste>Kaoma</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Communiqué</titre>
+    <annee>1979</annee>
+    <label>Phonogram</label>
+    <artiste>Dire Straits</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Bananarama - The Greatest Hits Collection</titre>
+    <annee>1988</annee>
+    <label>London Records</label>
+    <artiste>Bananarama</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Les Hits de Jive Bunny and the Mastermixers</titre>
+    <annee>1989</annee>
+    <label>Carrere</label>
+    <artiste>Jive Bunny</artiste>
+    <artiste>The Mastermixers</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Le hit des clubs - Vol. 4</titre>
+    <annee>1989</annee>
+    <label>CBS</label>
+    <artiste>Début de Soirée</artiste>
+    <artiste>Maurice</artiste>
+    <artiste>Rob Base</artiste>
+    <artiste>DJ E-Z Rock</artiste>
+    <artiste>Spagna</artiste>
+    <artiste>Replay</artiste>
+    <artiste>Sandee</artiste>
+    <artiste>One O One</artiste>
+    <artiste>Flim Flam</artiste>
+    <artiste>Plastic Bertrand</artiste>
+    <artiste>Fax Yourself</artiste>
+    <artiste>Have a Nice Day</artiste>
+    <artiste>Mod n°4</artiste>
+  </disque>
+  <disque support="DVD">
+    <titre>Tournée Hors-Saison</titre>
+    <annee>2000</annee>
+    <label>Chandelle</label>
+    <artiste>Francis CABREL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Legend</titre>
+    <annee>1985</annee>
+    <label>Virgin</label>
+    <artiste>Tangerine Dream</artiste>
+  </disque>
+  <disque support="CDPirate">
+    <titre>Melrose</titre>
+    <annee>1990</annee>
+    <artiste>Tangerine Dream</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Braveheart</titre>
+    <annee>1995</annee>
+    <artiste>James HORNER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Both Sides</titre>
+    <annee>1993</annee>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>But Seriously</titre>
+    <annee>1989</annee>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Defloration 13</titre>
+    <annee>2000</annee>
+    <artiste>Hubert-Félix THIEFAINE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>18</titre>
+    <annee>2002</annee>
+    <label>Virgin</label>
+    <artiste>Moby</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Play</titre>
+    <annee>1999</annee>
+    <label>Virgin</label>
+    <artiste>Moby</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>What a Blast</titre>
+    <annee>1999</annee>
+    <label>TDI</label>
+    <artiste>Tangerine Dream</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Afrique - Percussion - Tambour djembé</titre>
+    <annee>1996</annee>
+    <label>Auvidis</label>
+    <artiste>Adama DRAME</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Louise Attaque</titre>
+    <annee>1998</annee>
+    <artiste>Louise Attaque</artiste>
+    <artiste>Gaëtan ROUSSEL</artiste>
+    <artiste>Arnaud SAMUEL</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Boucan d'enfer</titre>
+    <annee>2002</annee>
+    <label>Virgin</label>
+    <artiste>Axelle RED</artiste>
+    <artiste>Renaud</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Tout c'qu'on a...</titre>
+    <annee>2000</annee>
+    <label>Sony Music</label>
+    <artiste>Sinsemilia</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Le piano sous la mer</titre>
+    <annee>1972</annee>
+    <label>Sony Music</label>
+    <artiste>Saint-Preux</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Des visages des figures</titre>
+    <annee>2002</annee>
+    <label>Carosello</label>
+    <artiste>Noir Désir</artiste>
+    <artiste>Manu Chao</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The last opera</titre>
+    <annee>1994</annee>
+    <label>Sony Music</label>
+    <artiste>Saint-Preux</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Faut qu'ils s'activent</titre>
+    <annee>2000</annee>
+    <label>Salut Ô Productions</label>
+    <artiste>Tryo</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Pierpoljak</titre>
+    <annee>1997</annee>
+    <label>Barclay</label>
+    <artiste>Pierpoljak</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Paradize</titre>
+    <annee>2002</annee>
+    <label>Columbia</label>
+    <artiste>Indochine</artiste>
+    <artiste>Melissa auf der Maur</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Résistances</titre>
+    <annee>1998</annee>
+    <label>Sony Music</label>
+    <artiste>Sinsemilia</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Chansons pour les pieds</titre>
+    <annee>2001</annee>
+    <artiste>Jean-Jacques GOLDMAN</artiste>
+  </disque>
+  <disque support="K7Vidéo">
+    <titre>Concert aux Eurockéenne</titre>
+    <annee>1999</annee>
+    <artiste>Pierpoljak</artiste>
+  </disque>
+  <disque support="CDPirate">
+    <titre>Clandestino</titre>
+    <annee>1998</annee>
+    <artiste>Manu Chao</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>...Proxima estacion... Esperanza</titre>
+    <annee>2000</annee>
+    <artiste>Manu Chao</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Intégrale 9 CD</titre>
+    <annee>2002</annee>
+    <artiste>Daniel BALAVOINE</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Intégrale 12 CD</titre>
+    <annee>2002</annee>
+    <artiste>Michel BERGER</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Once upon a time in Jamaica</titre>
+    <annee>2002</annee>
+    <artiste>The Gladiators</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Songs of Freedom (4 CD)</titre>
+    <annee>2002</annee>
+    <artiste>Bob MARLEY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Destination Berlin</titre>
+    <annee>1984</annee>
+    <artiste>Tangerine Dream</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Apartheid is nazism</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Cocody Rock !!!</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Jerusalem</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Merci</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Paris Bercy</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Revolution</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>The best of Alpha Blondy</titre>
+    <artiste>Alpha Blondy</artiste>
+  </disque>
+  <disque support="MiniDisc">
+    <titre>Dub Plate</titre>
+    <artiste>Bang Dub</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Best of emusic.com</titre>
+    <label>emusic.com</label>
+    <artiste>Aerogramme</artiste>
+    <artiste>Afro-Mystic</artiste>
+    <artiste>Count the stars</artiste>
+    <artiste>All that left</artiste>
+    <artiste>Solomon Burke</artiste>
+    <artiste>Volovan</artiste>
+    <artiste>The Skip Heller Quartet</artiste>
+    <artiste>Saint Thomas</artiste>
+    <artiste>Jimmy Ponder</artiste>
+    <artiste>Karan Casey</artiste>
+    <artiste>50 cent</artiste>
+    <artiste>The kinks</artiste>
+    <artiste>Orchestra superstring</artiste>
+    <artiste>Steve Earle</artiste>
+    <artiste>The Wondermints</artiste>
+    <artiste>Ultra</artiste>
+    <artiste>The lasts Hombres</artiste>
+    <artiste>Batidos</artiste>
+    <artiste>Charlie Daniel Band</artiste>
+    <artiste>Agua Loca</artiste>
+    <artiste>Garry Hughes</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Tokyo concert</titre>
+    <artiste>Bill Evans</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Natural Mystic</titre>
+    <artiste>Bob MARLEY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Natural Mystic II</titre>
+    <artiste>Bob MARLEY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The complete Upsetter Singles 1970-1972</titre>
+    <artiste>Bob MARLEY</artiste>
+    <artiste>The Wailers</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Moroccan Sunrise</titre>
+    <artiste>Borrah</artiste>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Crucial ! Roots Classics</titre>
+    <artiste>Bunny Wailer</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>DubDisco</titre>
+    <artiste>Bunny Wailer</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Retrospective</titre>
+    <artiste>Bunny Wailer</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dear Sir</titre>
+    <artiste>Cat Power</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Moon Pix</titre>
+    <artiste>Cat Power</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Myra Lee</titre>
+    <artiste>Cat Power</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The covers Record</titre>
+    <artiste>Cat Power</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>What would the community think</titre>
+    <artiste>Cat Power</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Bird at St. Nick's</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Bird of Paradise</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Bird on 52nd Street</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Live performances</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The best of the Dial Years</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>The Quintet</titre>
+    <artiste>Charlie Parker</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>One Love</titre>
+    <artiste>Crucial Dub</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Visions</titre>
+    <artiste>Dennis Brown</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Words of Wisdom</titre>
+    <artiste>Dennis Brown</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Hallowed Ground</titre>
+    <artiste>Dino Pacifi</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Brussels And Paris</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chronological CD1 - The first QHCF Recording</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chronological (CD2) - The London Deccas</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chronological (CD3)</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chronological (CD4)</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chronological (CD5)</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Claasic early recordings, vol.2 Disc A Paris 1937</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Classic Early Recording, vol. 2 Disc B</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Classic Early Recordings, vol. 2 Disc C</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Classic Early Recordings, vol. 2 disc D</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Django with his american Friends Disc 1</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Django with his american friends Disc 2</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dkango with his american friends Disc 3</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Djangologie USA Disc 1</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Djangologie USA Disc 2</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>First Recordings</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>In a sentimental mood</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Rare Django</titre>
+    <artiste>Django Reinhardt</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>7 Tales of Israel</titre>
+    <artiste>Dr. Israel</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Black Rose Liberation</titre>
+    <artiste>Dr. Israel</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Next Step</titre>
+    <artiste>Dr. Israel</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The very best ok Eek-A-Mouse</titre>
+    <artiste>Eek-A-Mouse</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The very best of Eek-A-Mouse, vol. 2</titre>
+    <artiste>Eek-A-Mouse</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Wa-Do-Dem</titre>
+    <artiste>Eek-A-Mouse</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>An Ennio Morricone &amp; Dario Argento Trilogy</titre>
+    <artiste>Ennio MORRICONE</artiste>
+    <artiste>Dario ARGENTO</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>An Ennio Morricone Anthology CD1</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>An Ennio Morricone Anthology (CD2)</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>An Ennio Morricone Western Quintet</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Cinema Paradisio</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Gothic Dramas</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Main Titles</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Morricone-Belmondo</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Phantom of the Opera</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Fourth King</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Stendhal Syndrome</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Ennio Morricone with Love</titre>
+    <artiste>Ennio MORRICONE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Knockin' on Heaven's Door</titre>
+    <artiste>Eric CLAPTON</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>A Bernardo Bertolucci Double Feature</titre>
+    <artiste>Ennio MORRICONE</artiste>
+    <artiste>Georges DELERUE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Call me Collect</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dance Hall Don</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dapper Slapper</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Greatest and Latest</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>I.O.U</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Judge Not</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Looking Back</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Mr. Isaacs</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Pardon Me !</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Private Beach Party</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Rasta Business</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Sly and Robbie Gregory Isaacs</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>State of Shock</titre>
+    <artiste>Gregory ISAACS</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Agua</titre>
+    <artiste>Harold BUD</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Life is for Living</titre>
+    <artiste>Horace ANDY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Roots and Branches</titre>
+    <artiste>Horace ANDY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The best of Horace Andy</titre>
+    <artiste>Horace ANDY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub Combo</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub the Rock</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub Vibration - Israel Vibration in Dub</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Forever</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Free to move</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>I.V. Dub</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Israel Dub</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>IV</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>On the Rock</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Praises</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Same Song</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Strength of my life</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Unconquered People</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Vibes Alive</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Why you so Craven</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Wiss Vibes</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Israel Vibration Live Again</titre>
+    <artiste>Israel Vibration</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The sound of Channel One - King Tubby Connection</titre>
+    <artiste>King Tubby</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>King Tubby meets Lee Perry - Megawatt Dub</titre>
+    <artiste>King Tubby</artiste>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Sneak Attack</titre>
+    <artiste>KRS-One</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Spiritual Minded</titre>
+    <artiste>KRS-One</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Mix Tapes</titre>
+    <artiste>KRS-One</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>County Classics</titre>
+    <artiste>Lee CONWAY</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Bashment</titre>
+    <artiste>Lee Perry</artiste>
+    <artiste>The Upsetters</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Scratch Attack</titre>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Phoenix Dub</titre>
+    <artiste>Linval THOMPSON</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>A Caribbean taste of Technology</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Adventures of a Dub Sampler</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Afrocentric Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Anti-Racist Dub Broadcast</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Beyond the Realm of Dub - Dub me crazy</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Black Liberation Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub Maniacs on the Rampage</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub me Crazy</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>DubTronic</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Escape to the Asylum of Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Evolution of Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Experiments of the Aural Kind</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Hijacked to Jamaica</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Psychedelic Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Schizophrenic</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Science and the Wichdoctor</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Inspirational Sounds of Mad Professor</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Trix in the Mix Part 1</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>True Born African Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Under the spell of Dub</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Who knows the secret of the master tape</titre>
+    <artiste>Mad Professor</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Black Ark Experryments</titre>
+    <artiste>Mad Professor</artiste>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub take the Voodoo out of Reggae</titre>
+    <artiste>Mad Professor</artiste>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Mystic Warrior</titre>
+    <artiste>Mad Professor</artiste>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Super Ape Inna Jungle</titre>
+    <artiste>Mad Professor</artiste>
+    <artiste>Lee Perry</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Marcia</titre>
+    <artiste>Marcia Griffiths</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Naturally</titre>
+    <artiste>Marcia Griffiths</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Steppin'</titre>
+    <artiste>Marcia Griffiths</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>A Maurice Jarre Trilogy</titre>
+    <artiste>Maurice JARRE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Mosquito Coast (BOF)</titre>
+    <artiste>Maurice JARRE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Be ready Boys</titre>
+    <artiste>Norman BLAKE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Chattanooga Sugar Babe</titre>
+    <artiste>Norman BLAKE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Far Away, Down on a Georgia Farm</titre>
+    <artiste>Norman BLAKE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Flower from the field of Alabama</titre>
+    <artiste>Norman BLAKE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Live at McCabe's</titre>
+    <artiste>Norman BLAKE</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Air 2 - Travelling without Moving</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Music for Ballet</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Namlook VI</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Namlook VII</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Syn</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Four Seasons</titre>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 2</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 3</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 4</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 8</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 5</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+    <artiste>Bill LASWELL</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 6</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+    <artiste>Bill LASWELL</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The dark side of the Moog 7</titre>
+    <artiste>Klaus SCHULZE</artiste>
+    <artiste>Pete Namlook</artiste>
+    <artiste>Bill LASWELL</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The essential Collection</titre>
+    <artiste>Ray CHARLES</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Love is the Devil</titre>
+    <artiste>Ryuichi SAKAMOTO</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Handmaid's Tale</titre>
+    <artiste>Ryuichi SAKAMOTO</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The San Mateo Sessions 1969</titre>
+    <annee>1969</annee>
+    <artiste>Santana</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Greetings from Skamania</titre>
+    <artiste>Skalites</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Heroes of Reggae in Dub</titre>
+    <artiste>Skalites</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Hi-Bop Ska</titre>
+    <artiste>Skalites</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Ska Voovee</titre>
+    <artiste>Skalites</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Keith Hudson Greatest Hits - Part 1</titre>
+    <artiste>Sky High</artiste>
+    <artiste>Mau Mau</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Dub Nice</titre>
+    <artiste>Slamboshis</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Auprès dema bande</titre>
+    <artiste>Soldat Louis</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Du Rhum, des femmes</titre>
+    <artiste>Soldat Louis</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Pavillon noir</titre>
+    <artiste>Soldat Louis</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Première bordée</titre>
+    <artiste>Soldat Louis</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>I'm Coming Home</titre>
+    <artiste>St. Thomas</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Instrumental Reggae</titre>
+    <artiste>The Aggrovators</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Something a Gwaan</titre>
+    <artiste>The Gladiators</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The Pixies</titre>
+    <artiste>The Pixies</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The complete Bang Session</titre>
+    <artiste>Van Morrison</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>The very best of Wailing Soul</titre>
+    <artiste>Wailing Soul</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Keys to ascension</titre>
+    <artiste>Yes</artiste>
+  </disque>
+  <disque support="mp3">
+    <titre>Keys to ascension (Live)</titre>
+    <artiste>Yes</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Yannick Noah</titre>
+    <artiste>Yannick Noah</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>La petite monnaie</titre>
+    <artiste>Bénabar</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Bénabar</titre>
+    <artiste>Bénabar</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Grace</titre>
+    <artiste>Jeff BUCKLEY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Par les sentiments</titre>
+    <artiste>Alain SOUCHON</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Master Series - Johnny Hallyday</titre>
+    <artiste>Johnny HALLYDAY</artiste>
+  </disque>
+  <disque support="CD">
+    <titre>Testify</titre>
+    <annee>2002</annee>
+    <artiste>Phil COLLINS</artiste>
+  </disque>
+</discotheque>
